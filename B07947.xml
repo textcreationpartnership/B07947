@@ -1,0 +1,3472 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bon-acords decorement. Or, Newes from the North. Wherein is truely expressed the forme (or situation) of the famous citie of new Aberdeene, the vertues of the honourable and renowned governours thereof, together with these Grampians anagrames. : Wherewith is adjoyned the proofe, and praise of chast beautie, and the scorne of idols. / By William Mercer..</title>
+            <author>Mercer, William, 1605?-1676?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1633</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 105 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07947</idno>
+            <idno type="STC">STC 17828.5</idno>
+            <idno type="STC">ESTC S94167</idno>
+            <idno type="EEBO-CITATION">68222455</idno>
+            <idno type="OCLC">ocm 68222455</idno>
+            <idno type="VID">183762</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07947)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183762)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2197:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bon-acords decorement. Or, Newes from the North. Wherein is truely expressed the forme (or situation) of the famous citie of new Aberdeene, the vertues of the honourable and renowned governours thereof, together with these Grampians anagrames. : Wherewith is adjoyned the proofe, and praise of chast beautie, and the scorne of idols. / By William Mercer..</title>
+                  <author>Mercer, William, 1605?-1676?</author>
+               </titleStmt>
+               <extent>[56] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>J. Wreittoun],</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>Printed Anno Dom. 1633..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Title ornament..</note>
+                  <note>Place and publisher from STC (2nd ed.).</note>
+                  <note>Signatures: A-G⁴.</note>
+                  <note>Imperfect: pages cropped and mutilated through-out, with considerable loss of text. Best copy available for photographing.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aberdeen (Scotland) --  History --  Poetry --  Early works to 1800.</term>
+               <term>Aberdeen (Scotland) --  Religion --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:183762:1" rendition="simple:additions"/>
+            <pb facs="tcp:183762:1"/>
+            <pb facs="tcp:183762:2"/>
+            <pb facs="tcp:183762:2"/>
+            <p>BON-ACORDS DECOREMENT.</p>
+            <p>
+               <hi>OR,</hi> Newes from the North. Wherein is truely expreſſed the forme (or ſituati<g ref="char:EOLhyphen"/>on) of the famous Citie of new <hi>Aberdeene,</hi> the vertues of the honourable and re<g ref="char:EOLhyphen"/>nowned governours thereof, toge<g ref="char:EOLhyphen"/>ther with theſe Grampians Anagrames.</p>
+            <p>Wherewith is adjoyned the proofe, and praiſe of chaſt Beautie, and the ſcorne of Idols.</p>
+            <p>By <hi>William Mercer.</hi>
+            </p>
+            <p>Printed Anno DOM. 16<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:183762:3"/>
+            <head>Vpon the Author.</head>
+            <lg>
+               <l>THryſe happie <hi>Abria,</hi> to whoſe laſting Fame,</l>
+               <l>Right valiant <hi>Mercers</hi> Muſe hath vndergone:</l>
+               <l>To gild, in rich encomiums each mans name,</l>
+               <l>Like <hi>Mars,</hi> and <hi>Maro,</hi> both combynd in one,</l>
+               <l>For to your praiſe what hee hath pend in word,</l>
+               <l>Hee bravely vowes for to maintaine by ſword.</l>
+            </lg>
+            <closer>
+               <signed>W. Dow.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:183762:3"/>
+            <head>TO THE RIGHT HO<g ref="char:EOLhyphen"/>NOVRABLE, THE TRVELY <hi>RENOW<g ref="char:EOLhyphen"/>NED, AND WORTHILY RESPECTED</hi> PAVL MEINZIES of <hi>Kinmoundie.</hi> Lord Proveſt, M<hi rend="sup">r</hi>. VEDAST LOWSON, PATRICK LESLIE, GILBERT COLINSONE, and M<hi rend="sup">r</hi>. THOMAS GRAY, Baillies, <hi>M<hi rend="sup">r</hi>. Mathew Lomſden,</hi> Dean of Gild, <hi>Charles Keillo</hi> Theſaurer, and to the renowned Counſellers <hi>and members of the Counſell of Aberdene,</hi> wiſhes Grace, Honour, Promotion, and <hi>Peace in this life, and everlaſting</hi> glorie in the life to come. <hi>W. M.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">R</seg>Enowned Rulers of this ſacred ſeat,</l>
+               <l>Wherein all goodneſse, graciouſly abound,</l>
+               <l>Whoſe fames for worth, whoſe vertues are compleat</l>
+               <l>Whoſe liues are lights, whoſe learnings are profound<g ref="char:punc">▪</g>
+               </l>
+               <l>Amongſt all theſe, who loue your vertues beſt,</l>
+               <l>And they whoſe workes vnfained witneſſe beare,</l>
+               <l>I'm loath to bee, the laſt, albeit the leaſt,</l>
+               <l>Who would approue, how I your worth admeare.</l>
+               <l>Therefore let this invention of my Muſe,</l>
+               <l>(Which though not worthie, boldly weares the ba</l>
+               <l>Of theſe your names, even for its worthieſt chuſ</l>
+               <l>Obtaine your loue, its errors to inhedge:</l>
+               <l>And let it pleaſe you, theſe my Lynes to take</l>
+               <l>Into good part, and doe my paines approue:</l>
+               <l>If nought for elſe, yet for affections ſake,</l>
+               <l>And for aſſurance heereby of my loue:</l>
+               <l>And ſince I know your generous minds admit,</l>
+               <l>
+                  <pb facs="tcp:183762:4"/>A ſigne of loue, as were more worth therein:</l>
+               <l>Heerefore am bold to beate my braines and wit,</l>
+               <l>To ſee if I can to your vertues win:</l>
+               <l>For loe for loue, on my part of your worth,</l>
+               <l>And through deſire for to ingraue your glore,</l>
+               <l>I haue imployde my pen, for to ſet forth,</l>
+               <l>Your juſt deſerts, by men admyrde before.</l>
+               <l>And that my Lynes may ever witneſse bee,</l>
+               <l>For to impart a portion of your praiſe,</l>
+               <l>Although ſuch knowledge not conſiſts in mee,</l>
+               <l>To wryte your worth, or dignities to raiſe:</l>
+               <l>Yet though my words<g ref="char:punc">▪</g> ſhould render but a view,</l>
+               <l>And not attaine, the full to teſtifie,</l>
+               <l>This I profeſſe to bee your proper due,</l>
+               <l>Yee are of the ſuperlatiue degree.</l>
+               <l>And as th' <hi>Arcadians,</hi> gaue to <hi>Pales</hi> bot</l>
+               <l>A fleece of woole to teſtifie their loue:</l>
+               <l>Th' <hi>Athenians</hi> loe, to <hi>Pallas</hi> did alot,</l>
+               <l>A diſh of O liues, duetie to approue,</l>
+               <l>So likewiſe I, haue with theſe two nothing</l>
+               <l>To giue, but theſe vnpoliſht lynes of mine:</l>
+               <l>Which I confeſse not worthie is to bring</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſuch Patrones, for my first propyne.</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Minerva,</hi> did an Owle defend,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> vnder covert of her Targ at ſaue:</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> did her liuely armes extend,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the deformde <hi>Cyclops</hi> might perceaue.</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Apollo</hi> by his heav'nly Lute,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, <hi>night-raven,</hi> vnder it did hyde:</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> pleaſe you, to ſupplie my ſute,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eerein keepe my errors vneſpyde:</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> I finde the ſecreet of my thought,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> can know, till they the ſame ſhall view,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> perfection fully brought,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> loue was firmely fixt on you:</l>
+               <l>
+                  <pb facs="tcp:183762:4"/>And though ſometimes I ſecreetly did ſend,</l>
+               <l>Some lynes abroad, or yet to publicke eye,</l>
+               <l>My aime was ay, but that I might amend,</l>
+               <l>The ſame to you, your worth to teſtifie.</l>
+               <l>Conſidering then, the worthineſse of you,</l>
+               <l>I did determine, as the trueth requyrde,</l>
+               <l>Yee were the onely object whom I knew,</l>
+               <l>My Muſe of duetie ought to haue aſpyrde.</l>
+               <l>Therefore at laſt theſe Lynes I did compoſe,</l>
+               <l>Which being done, I doe preſent them heere,</l>
+               <l>To craue your aid, to keepe them from their foes,</l>
+               <l>Which if they finde, they ſhall not fret for feare.</l>
+               <l>And I who pend them, ſhall your praiſe proclame,</l>
+               <l>And ſtill procure your honours reſt on hie:</l>
+               <l>Your ſeverall names, and actions conqueſe fame,</l>
+               <l>Which by all ages may admeered bee:</l>
+               <l>Then in the ballance of affection, proue</l>
+               <l>And try my labours, if they equall are,</l>
+               <l>Vnto one motion, of my matchleſſe loue,</l>
+               <l>And yee ſhall find my favour paſſe them farre:</l>
+               <l>And though I can no proteſtations make,</l>
+               <l>Yet for your honour, I ſhall alwayes pray,</l>
+               <l>Vnto ſuch tyme, as I occaſion take,</l>
+               <l>To proue more largely I am yours for ay.</l>
+               <l>Thus you intreating, yee will pleaſed bee,</l>
+               <l>Them to receaue, and loue them for the Art,</l>
+               <l>Whence in ſome maner, they proceede yee ſee,</l>
+               <l>And doe receaue reſemblance in apart:</l>
+               <l>So of you all, what is divine as due,</l>
+               <l>I to the three vnited powers commend,</l>
+               <l>And what is ſubject vnto change of you</l>
+               <l>I know your valour alwayes will defend</l>
+               <l>
+                  <pb facs="tcp:183762:5"/>As for my part, what power I can afford,</l>
+               <l>To death I ſhall ſtill honour <hi>Bon-acord.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>And reſts Your Worſhips and Wiſedomes moſt obſequious and truely affectionated ſerviture at power
+William Mercer.</signed>
+            </closer>
+         </div>
+         <div type="sonnet">
+            <head>SONNET.</head>
+            <head>Acrostick.</head>
+            <lg>
+               <l>W With Manhood, Muſicke, and a Poets mynd,</l>
+               <l>I In ſtrength, in mirth, and lynes of verſe I vow,</l>
+               <l>L Loue hath a cord, of threefold links combynd,</l>
+               <l>L Like one whoſe worth no violence can bow:</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> In, and whereby, I doe preſent to you,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> A lyuely Lanterne of my loyall loue,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> More haue I not, and leſſe ſhall not ſeeme due,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> My faithfull favour plainely to approue.</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> therefore no leſſe of mee then I</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> heereby, for to deſerue to death,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> rather vſe ſome ſtrategem to try,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> if my words proceed from fixed faith,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> alſo, that this threefold band,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> Can ſer<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e three vſes, as you pleaſe command.</l>
+            </lg>
+            <closer>
+               <signed>W. M.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:183762:5"/>
+            <head>To the generall Reader.</head>
+            <lg>
+               <l>REader, remembring that my lynes muſt bee,</l>
+               <l>Of force to all preſented publickly:</l>
+               <l>And that they are not deckt with daintie phraſe,</l>
+               <l>Whereby they alwayes doe not merite praiſe:</l>
+               <l>I, as a Souldier, who defence would make,</l>
+               <l>Whoſe part ſometimes, I honour had to act:</l>
+               <l>Conſidering that this worke of mine but dout,</l>
+               <l>Must bee with foes, envyrond round about,</l>
+               <l>Would faine erect a fort, to keepe it free</l>
+               <l>From carping of the curious enemie:</l>
+               <l>And therefore ſtriues this much (in thee) to moue,</l>
+               <l>That as thou reads, thou cenſure mee in loue.</l>
+               <l>Which as I wiſh, I having once obtainde,</l>
+               <l>Heereby my lynes, ſhall hence forth bee maintainde:</l>
+               <l>And (as a friend) if thou wilt not refuſe,</l>
+               <l>Thou's conquiſh kindneſſe, and advance my Muſe.</l>
+               <l>Or if thou proue a <hi>Momus</hi> through envy,</l>
+               <l>Then in that caſe, thy malice I defy:</l>
+               <l>A curious Critick, if thou ſtryue to bee,</l>
+               <l>To carpe, I then contemne thy crueltie:</l>
+               <l>Becauſe thou frets, and fooliſhly doth preaſe,</l>
+               <l>To wrong my worke, but doth thy ſelfe diſgrace.</l>
+               <l>Therefore, before thou further on proceede,</l>
+               <l>Spare what amiſſe is, and mantaine the gude:</l>
+               <l>And if perchance, thou errors ſhall perceaue,</l>
+               <l>Let theſe of myne, by thee a mends<g ref="char:punc">▪</g> receaue:</l>
+               <l>Which from thy hands, I will bee glad to take</l>
+               <l>Albeit for nought, but for my maters ſake:</l>
+               <l>That all the honour, may (as due) increaſe,</l>
+               <l>To <hi>Bon-acord,</hi> whoſe worth deſerues no leſse:</l>
+               <l>
+                  <pb facs="tcp:183762:6"/>But this I feare if ſo thou thinke of mee:</l>
+               <l>That I lacke skill, thy wit ſhall weaker bee,</l>
+               <l>Becauſe the baſeſt and the naughtiest minde,</l>
+               <l>Doe alwayes malice, 'gainſt true vertue find<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+               <l>Therefore reſolue to read, to thinke and ſweare,</l>
+               <l>That all is true that is incloſed heere.</l>
+            </lg>
+            <closer>
+               <signed>W. M.</signed>
+            </closer>
+         </div>
+         <div type="sonnet">
+            <head>SONNET.</head>
+            <lg>
+               <l>THE learned, and vnlearned, both theſe two,</l>
+               <l>Wiſe, and vnworthie I apeall them fro:</l>
+               <l>The learned wiſe, becauſe no doubt their skill,</l>
+               <l>Will ſoone perceiue ſome errors heerein-till:</l>
+               <l>The ignorant vnworthie, I appaile,</l>
+               <l>Becauſe albeit they cannot judge, they'le raile,</l>
+               <l>Wherefore I wiſh, it pleaſe them but to chuſe,</l>
+               <l>Some other ſubject, nor to wrong my Muſe.</l>
+               <l>The wiſe may well by learning, ſee mee hault,</l>
+               <l>And yet perchance they cannot mend my fault:</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> alſo may the ignorant blaze foorth</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will, their words I reckon of no worth.</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>herefore their beſt is both, as would appeare,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> That having read, vnchallengde they reteare.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:183762:6"/>
+            <head>TO THE FAMOVS, AND FLOVRISHING <hi>Citie of ABERDEINE.</hi>
+            </head>
+            <div type="anagram">
+               <lg>
+                  <head>New ABERDEINS Anagramme.</head>
+                  <l>Wee debar ſinn.</l>
+               </lg>
+               <lg>
+                  <l>Verſe. <hi>Sinne wee debar,</hi> as yee perceiue, and faithfully afford,</l>
+                  <l>Both love and peace, from whence wee have our diton <hi>Bon-acord.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <lg>
+                  <head>Acrostick.</head>
+                  <l>IN ME,</l>
+                  <l>
+                     <hi>A</hi> generous <hi>Meinzies,</hi> beares governament,</l>
+                  <l>
+                     <hi>B</hi>ut by the worthie <hi>Colinſens</hi> conſent,</l>
+                  <l>
+                     <hi>E</hi>ven ſo, the loyall <hi>Lowſons</hi> honoureth mee,</l>
+                  <l>
+                     <hi>R</hi>enouned <hi>Leſlies</hi> aids couragiouſlie.</l>
+                  <l>
+                     <hi>D</hi>oth not the ancient <hi>Iohnſtons</hi> grace mee ay</l>
+                  <l>
+                     <hi>E</hi>ſteemd I am, for <hi>Collen, Rutherford, Gray</hi>
+                  </l>
+                  <l>
+                     <hi>I</hi>s not brave <hi>Meldrum</hi> mine, mee to defend,</l>
+                  <l>
+                     <hi>N</hi>o leſſe the <hi>Iaffrayes, Robertſons,</hi> ſo I end,</l>
+                  <l>And many more, whoſe names though I ſuppreſſ</l>
+                  <l>Makes mee renounde by vertues I confeſſe.</l>
+                  <l>
+                     <hi>W</hi>herefore then Reader, thus much of mee record,</l>
+                  <l>
+                     <hi>M</hi>ore famous worth, no Citie can afford.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:183762:7"/>
+            <head>BON-ACORDS DECOREMENT.</head>
+            <lg>
+               <l>
+                  <hi>MNemoſine,</hi> the Muſes nyne I crave,</l>
+               <l>Send foorth from thee that I their aide may have,</l>
+               <l>Becauſe a Worke ſo rare I heere intend,</l>
+               <l>Which though begunne by mee, theſe nyne muſt end</l>
+               <l>Goe on, ſaith ſhee, they ſhall aſsiſt thy Muſe,</l>
+               <l>I know thy worke doth merite no refuſe,</l>
+               <l>Rowſe vp thy ſpirits: the rareſt of thoſe nine,</l>
+               <l>I ſhall advance to grace that worke of thine;</l>
+               <l>By whoſe aſſiſtance, which I pleaſde to aſke,</l>
+               <l>Who lykes to heare, loe I beginne my taske.</l>
+            </lg>
+            <lg>
+               <l>GReat <hi>Babylons</hi> building was ordainde for eaſe,</l>
+               <l>To bee the ſeate of theſe three Monarchies,</l>
+               <l>Th' <hi>Aſsyrian, Greeke,</hi> and <hi>Perſian,</hi> and did beare</l>
+               <l>Rule o're all Nations many thouſand yeare.</l>
+               <l>Within whoſe power all princes did repare,</l>
+               <l>All Potentates, and Kings reſorted there:</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to admire, for to adore, and ſee</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſtate, the grandure and magnificencie</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſuch a ſeate, wherein all pompe appearde,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>ſe glore and ſplendour greatly was admired.</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ikewiſe <hi>Rome,</hi> fame doth record to bee</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>only ſeate of the fourth Monarchie.</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> next to <hi>Babel</hi> did all worth afford,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>de all earthly Kingdomes by her ſword:</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> frowne, the World was forc't to quake,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>aptiues in triumph did take.</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>iters in hudge volumes ſtrive,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the ſame for to deſcrive.</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> glorious workes aboundantly,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the ſame to teſtifie.</l>
+               <l>
+                  <pb facs="tcp:183762:7"/>Of <hi>Athens</hi> alſo, hence what ſhould I ſay,</l>
+               <l>Where worthieſt Romans in their ſtate did ſtay,</l>
+               <l>And in the ſame, was not aſhamde you ſee,</l>
+               <l>To learne all ſcience, and civilitie:</l>
+               <l>And who for graue governament and wit,</l>
+               <l>No citie ſhee, for ſecond would admit:</l>
+               <l>And like as <hi>Sparta,</hi> was approvde and praiſde,</l>
+               <l>For Martiall worth, and o're all others raiſde.</l>
+               <l>Likewiſe their lyves, and vertues wrapt in ſtore,</l>
+               <l>Did farre exceede theſe cities told before:</l>
+               <l>Which was to <hi>Mars</hi> a ſeminarie fit,</l>
+               <l>For many warlike ſprits were bred in it:</l>
+               <l>And who with force of ſword, did conquiſh fame,</l>
+               <l>By Martiall deedes, to eternize their name:</l>
+               <l>As did appeare in many more then theſe,</l>
+               <l>
+                  <hi>Lyſander, Ages,</hi> and <hi>Clyomines,</hi>
+               </l>
+               <l>With others divers faſhious to rehearſe,</l>
+               <l>Whoſe worth is viewd, throughout the vniverſe:</l>
+               <l>And who for fame, all ages doth agree,</l>
+               <l>Vnto all Nations for to teſtifie,</l>
+               <l>Which heeretofore might bee examples rare,</l>
+               <l>For valour, worth, and vertues but compare:</l>
+               <l>Whoſe gifts moſt glorious, never yet hath beene</l>
+               <l>Once paraleld, or equalized ſeene.</l>
+               <l>Till now by force, theſe foretold townes yee ſee</l>
+               <l>To <hi>Bon-acord</hi> yeelds by neceſſitie:</l>
+               <l>Since to them all, what did belong of old,</l>
+               <l>This Citie claimes moſt juſtly vncontrold:</l>
+               <l>For loe, more worth then all of theſe I meane,</l>
+               <l>It doth afford as is apparent ſeene:</l>
+               <l>Since <hi>Athens</hi> no wayes herewith could compare</l>
+               <l>In learning, or civilitie moſt rare:</l>
+               <l>And ſince that <hi>Sparta,</hi> for her valorous fame.</l>
+               <l>Of force muſt flie, and heereto quyte her name:</l>
+               <l>And ſeeing <hi>Babell,</hi> nor that <hi>Rome</hi> indeede,</l>
+               <l>For vertues no wayes could the ſame exceede:</l>
+               <l>
+                  <pb facs="tcp:183762:8"/>But as the heav'ns doth over reach the earth,</l>
+               <l>So in like ſort, it doth ſurpaſſe their worth;</l>
+               <l>And like as ſince, is nothing vnto faith,</l>
+               <l>Or who would life, likewiſe compare to death:</l>
+               <l>Or like to man, by reaſon who is bleſt,</l>
+               <l>Whoſe true perfection doth in grace conſiſt:</l>
+               <l>Or as a beaſt is nought, to man as farre</l>
+               <l>This Cities vertues, doth theſe Cities warre:</l>
+               <l>For they had but an outward ſhow of glore,</l>
+               <l>But this in ſacred ſubſtance paſſe them more:</l>
+               <l>And though their greatneſſe were more groſſe then it</l>
+               <l>They all muſt yeeld hereto, for vertuous wit:</l>
+               <l>And looke wherein theſe gloried moſt, ſaue ill,</l>
+               <l>This hath more cauſe to glorie therintill:</l>
+               <l>Which once ſuch Biſhops bleſt of memorie had,</l>
+               <l>Who doth lye ſecreet now in earthen bed:</l>
+               <l>Of famous race, by whom braue buildings ſtand</l>
+               <l>In water ſome, ſome doth decore the land:</l>
+               <l>By <hi>Chein</hi> and <hi>Lichtoun,</hi> builded were alone,</l>
+               <l>Sanct <hi>Machers</hi> Church, likewiſe the bridge of <hi>Done:</hi>
+               </l>
+               <l>With other two rare buildings as yee ſee,</l>
+               <l>The Old towne Colledge, &amp; the bridge of <hi>Die:</hi>
+               </l>
+               <l>One <hi>Elphinſtone,</hi> began them as is told,</l>
+               <l>And both were finiſht by <hi>Dumbar</hi> of old:</l>
+               <l>The one is builded vpon Pillers ſeven,</l>
+               <l>The other holds a Crowne, vp towards heaven;</l>
+               <l>One <hi>Steward</hi> famous, for his learning lovde,</l>
+               <l>As alſo <hi>Gordon,</hi> for his gifts approvde:</l>
+               <l>One <hi>Cunningham,</hi> the mirror of his dayes,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd <hi>Blackburne,</hi> likewiſe worthie of all praiſe,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Forbes</hi> then, and now a <hi>Forbes</hi> more,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irſt moſt rare, but this not matcht before,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> bygon Biſhops, treaſures were of faith,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> now in graue, yet triumphs over death:</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> of late, ſuch proveſts there hath beene,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> famous Towne of <hi>Aberdeene<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>
+                  <pb facs="tcp:183762:8"/>Whoſe generous ſprits, whoſe antient fame and worth,</l>
+               <l>My Pen can not impart, nor lynes ſet forth,</l>
+               <l>So paſſing many, whom I could not know,</l>
+               <l>Of ſome into my tyme, I heere will ſhow.</l>
+               <l>A <hi>Cheine</hi> much worth, for grace and great renowne,</l>
+               <l>With linkes of loue, combyned to the Towne:</l>
+               <l>A prudent Proveſt, in this famous place,</l>
+               <l>And who likewiſe, was one of ancient race:</l>
+               <l>Then <hi>Colinſon</hi> their third fold confidence,</l>
+               <l>Of vertues, who was verie quinteſſence:</l>
+               <l>The Cities comfort, who increaſt in grace,</l>
+               <l>And when but young, was Proveſt in that place:</l>
+               <l>Of ancient ſtem and ſtandard, even wheron</l>
+               <l>The towne relyde, as their chiefe corner ſtone:</l>
+               <l>As borne ſo bred, as livde ſo died, and loe,</l>
+               <l>Of all, this all, wee conqueſt but a ſhow:</l>
+               <l>Admeerde by men, for wiſedome, faith &amp; grace</l>
+               <l>A lanterne, fortres, favoured in his place:</l>
+               <l>Who dead yet liues, and who by fame ſhall leſt,</l>
+               <l>In number one, ay of the worthieſt:</l>
+               <l>Who paſt his pryme, even full of honours ſhynd</l>
+               <l>When death in graue of ſilence him inſhrynde.</l>
+               <l>Wherefore with gold moſt permanent impoſe,</l>
+               <l>Aboue his bones, this ſtone all worth incloſe.</l>
+               <l>As likewiſe for their learning they had two,</l>
+               <l>One liues in Heaven, the other liues below:</l>
+               <l>The one namde <hi>Gray,</hi> which though gray was his name,</l>
+               <l>This <hi>Gray</hi> doth glance in verie glorious fame,</l>
+               <l>The other <hi>Dun,</hi> ſo doth his name declare,</l>
+               <l>Whoſe knowledge in two ſciences is rare.</l>
+               <l>And as this <hi>Dun</hi> is much eſteemde by you,</l>
+               <l>This <hi>Dun</hi> doth yeeld a daintie coloured hew,</l>
+               <l>Since where pale death, would make your counte</l>
+               <l>Yee are revivde by vertue of this man,</l>
+               <l>Ev'n Principals both, ſo doth their place import</l>
+               <l>Liues both by fame although <gap reason="illegible" resp="#APEX" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <pb facs="tcp:183762:9"/>And gracious <hi>Gray,</hi> whoſe learning was admeerd,</l>
+               <l>Who livde not long till ſoone to earth reteerd,</l>
+               <l>With whom as due, a third I heere admit,</l>
+               <l>For learning rare, for Phiſick wondrous fit:</l>
+               <l>Which <hi>I, on ſtone,</hi> ingravd doth wiſh to ſee,</l>
+               <l>Thereby this <hi>Iohnſtons</hi> worth to teſtifie:</l>
+               <l>Who doth that place, which <hi>Liddell</hi> left ſupply</l>
+               <l>Whoſe name I heere expreſſe moſt worthily</l>
+               <l>And who profeſt the Mathematicks airt,</l>
+               <l>Which in his abſence <hi>Iohnſton</hi> doth impart,</l>
+               <l>And many mo, whom I can not expreſſe,</l>
+               <l>Who by juſt merit did deſerue no leſſe.</l>
+               <l>As is confirmde in Chronicles for ay,</l>
+               <l>Whoſe names, nor fames, ſhall never find decay:</l>
+               <l>But by their worth, yet recent beares record,</l>
+               <l>What ancient honour's due to <hi>Bon-acord.</hi>
+               </l>
+               <l>And more you ſee of all, what can bee wiſht,</l>
+               <l>But in this famous citie doth conſiſt:</l>
+               <l>For in within its curious corners ſtand,</l>
+               <l>A towne which ſeemes of force for to command</l>
+               <l>All cities elſe, to hyde them vnder ſloughes,</l>
+               <l>Since ſhees the matchleſſe method of al brughes</l>
+               <l>And whence apeare for poynts, which doth ariſe</l>
+               <l>Whoſe worth aſcending, ſeem to pierce the skyes</l>
+               <l>Vpon whoſe tops ſuch fethered fixions ſtand,</l>
+               <l>As onely change at <hi>Eolus</hi> command,</l>
+               <l>And alwayes aimes, as they anone would flie:</l>
+               <l>To ſound abroad their burghs nobilitie:</l>
+               <l>Which turning and conſidering where they ſit,</l>
+               <l>They doe reſolue, they will not paſſe from it:</l>
+               <l>But rather glories for to glance thereon,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ince each of them, poſſeſſe ſuch ſacred throne:</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> by their yeelding all at once, to proue,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſmalleſt motion, rules them all in loue:</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hereby that they may a cauſe afford,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o maintaine their title <hi>Bon-acord.</hi>
+               </l>
+               <l>
+                  <pb facs="tcp:183762:9"/>And ſince of them, each one a place poſſeſſe,</l>
+               <l>Whoſe walles are full of vpright holvneſſe:</l>
+               <l>They thinke it is their beſt, for to abide,</l>
+               <l>Se'ing loue, and good agrement is their guyde.</l>
+               <l>For vnder one doth ſtand the treaſurie,</l>
+               <l>From whence doth flow, meanes of felicitie:</l>
+               <l>The other is on judgement grounded ſure,</l>
+               <l>Repreſſing vices, vertues to procure:</l>
+               <l>The third ſprings vp from charitie and loue,</l>
+               <l>As thoſe within its corners can aproue:</l>
+               <l>The laſt all learning, as the time relates,</l>
+               <l>Affords within the compaſſe of its gates:</l>
+               <l>So that theſe foure; are precious poynts you ſee,</l>
+               <l>As Mercie, Iuſtice, Learning, Charitie:</l>
+               <l>Which though moſt rare, if three of theſe ſhould lake,</l>
+               <l>But one, it ſhould great imperfection make:</l>
+               <l>Wherefore all foure, on faith are founded ſure,</l>
+               <l>To make the name of <hi>Bon-acord</hi> indure:</l>
+               <l>The which though they antiquitie alledge,</l>
+               <l>Are much aduanced in this preſent age.</l>
+               <l>For they a Proueſt haue of pregnant wit,</l>
+               <l>Whoſe worth to rule, it is approved fit:</l>
+               <l>Whoſe skill, whoſe knowledge, &amp; whoſe deeds each day</l>
+               <l>Gravely preſerues, the Citie from decay:</l>
+               <l>Whoſe noble, wiſe, pregenitors of old,</l>
+               <l>Bore alwayes ſwey, moſt ſavely vncontrold:</l>
+               <l>So that by birth, this honour is his owne,</l>
+               <l>Since his anceſtors brookt it as is knowne:</l>
+               <l>Hee by whoſe workes in this illuſtrous place,</l>
+               <l>Doth alwayes aime, for amitie and peace:</l>
+               <l>And by his actions, who doth ſtill approue,</l>
+               <l>To <hi>Bon-acord,</hi> his kyndly conſtant loue.</l>
+               <l>And in whoſe time, hath ſo decord the ſame,</l>
+               <l>That by his worth, it hath attaind much fame:</l>
+               <l>Firſt and as beſt, then to record his care,</l>
+               <l>Hee heereto beares, may be accounted rare<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <pb facs="tcp:183762:10"/>For in their charge Eccleſiaſticall,</l>
+               <l>His aime can no wayes bee reputed ſmall:</l>
+               <l>Since in his time ſuch Prelate hath appearde,</l>
+               <l>As for his worth and learning is admeerd:</l>
+               <l>Who in this Kingdome, to the Church hath beene,</l>
+               <l>The graveſt guyde, that heeretofore was ſeene:</l>
+               <l>Whoſe Paſtors likewiſe doe appeare for worth,</l>
+               <l>The rareſt men, which nature hath ſent forth:</l>
+               <l>1 A <hi>Forbes,</hi> who one letter more you ſee,</l>
+               <l>Doth proue his worth, <hi>For-beſt</hi> of all to bee:</l>
+               <l>2 A <hi>Barron</hi> bleſt, whoſe learned workes decore,</l>
+               <l>The earth, which can yeeld none ſuch <hi>Barron</hi> more.</l>
+               <l>3 A <hi>Sibbald,</hi> who may well bee bold indeede,</l>
+               <l>His boldneſſe brings the ſtarving ſoules true foode,</l>
+               <l>4 A <hi>Guild,</hi> whoſe goodneſſe is more worth I vow,</l>
+               <l>Then gold, and all the goods which ever grew,</l>
+               <l>5 A <hi>Roſſe</hi> likewiſe, ſome lend mee but one vowell,</l>
+               <l>I's make this <hi>Roiſe</hi> more worth then precious Iewell:</l>
+               <l>Whilks, <hi>Forbest, Barron, Sibbald, Guild,</hi> and <hi>Roiſe,</hi>
+               </l>
+               <l>Confirmes the faithfull, and confounds Church foes.</l>
+               <l>And whence doth ſpring as from fyue fountaines fyne,</l>
+               <l>Renowned knowledge, doctrine moſt divine:</l>
+               <l>A Famous, Bleſſed, Sacred, Glorious, Rare,</l>
+               <l>Religion, alwayes, doth they witneſſe there.</l>
+               <l>In preaching, praying, and theſe men yee heare,</l>
+               <l>In <hi>Bon-acord,</hi> a <hi>Bon-acord</hi> they beare,</l>
+               <l>To proue how heaven, and earth, and men all three,</l>
+               <l>In rendring praiſe to <hi>Bon-acord</hi> agree,</l>
+               <l>And for to ſhew, that <hi>Bon-acord</hi> hath beene,</l>
+               <l>And is a diton due to <hi>Aberdene</hi>
+               </l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ince all theſe foreſaids, and things low and ſteepe,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oncurres in one, a Bon-acord to keepe,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of their perſons, and ſome certaine parts,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> aimde, to act their rare deſerts:</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> ceaſe, till I haue wrought a view,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>peciall what belongs to them as due,</l>
+               <l>
+                  <pb facs="tcp:183762:10"/>And yet ſuſpecting that my Muſe or merits</l>
+               <l>Should proue but weake, to write of ſuch braue ſpirits,</l>
+               <l>Becauſe I cannot paint their vertues foorth,</l>
+               <l>Who all are calld the quinteſſence of worth,</l>
+               <l>I will not preaſe to penin poeſie,</l>
+               <l>Nothing at all of them particularlie:</l>
+               <l>But will breakefoorth, to witneſſe to all eyes</l>
+               <l>In generall what the open Vniverſe ſees,</l>
+               <l>For loe, they all haue this attaind alone,</l>
+               <l>Their Towne doth ſtand by Gentle-men eachone.</l>
+               <l>Likewiſe this Burgh it is decor'de you ſee,</l>
+               <l>With Rivers two, its bounds to beautifie,</l>
+               <l>And as a Lover doth approach his love,</l>
+               <l>Who filde with pleaſure, doth at laſt remove,</l>
+               <l>Hee ſtands a farre, and raviſh'd lookes aback,</l>
+               <l>Becauſe in her ſuch pleaſure hee doth take,</l>
+               <l>Yet reſts not long but rageth ſtill you ſee,</l>
+               <l>Till in her armes full ſoone hee throwen bee,</l>
+               <l>Whoſe beautie then hee doth imbrace ev'n till,</l>
+               <l>Hee of his love hath love attainde his fill.</l>
+               <l>And ſo beeing ſerv'd, and ſatiat with deſire,</l>
+               <l>Hee from his Miſtreſſe doth at laſt retire.</l>
+               <l>Ev'n ſo, theſe floods, or roaring Rivers ſwells,</l>
+               <l>Delyting daylie to embrace her walles,</l>
+               <l>And blythlie beates till they themſelves retires,</l>
+               <l>By <hi>Neptunes</hi> courſe, who on her worth admires.</l>
+               <l>And there as fraught with love aſtoniſht ſtands,</l>
+               <l>In furious forme, ſeeming to wring their hands.</l>
+               <l>And then anone they doe perſue ſo nye,</l>
+               <l>On either ſide, till they advanced bee:</l>
+               <l>And ſo doe waſh her walls, and ſeeks no more,</l>
+               <l>Which they account to bee their greateſt glore,</l>
+               <l>Vnto which Towne, men ſcarſlie can atteine</l>
+               <l>To come, but by two bridges as is ſeene,</l>
+               <l>Which they did build to benefite by thoſe,</l>
+               <l>Such Paſſeugers, as thereby haſtily goes,</l>
+               <l>
+                  <pb facs="tcp:183762:11"/>And to expede the poore perchance by lot,</l>
+               <l>Who haue not money to command a boat,</l>
+               <l>As alſo for defence, to bee two forts,</l>
+               <l>For to hold off invaſions from their Ports.</l>
+               <l>And who by force can equall power afford</l>
+               <l>For to defend the worth of <hi>Bon-accord.</hi>
+               </l>
+               <l>In which, for <hi>Muſick, Latine, Writing,</hi> they</l>
+               <l>Have three, whoſe fames for Art ſhall laſt for ay</l>
+               <l>
+                  <hi>Wedderburne, Davidſone,</hi> and one <hi>Leſlie,</hi>
+               </l>
+               <l>Nor can bee pend, makes vp this number three,</l>
+               <l>And as in it theſe vertues all abound,</l>
+               <l>I meane true honour, learning moſt profound.</l>
+               <l>Likewiſe the Muſes heere a meeting have,</l>
+               <l>That they may ſtill the name of Muſick ſave:</l>
+               <l>Since as a Fountaine it all Muſick yeelds,</l>
+               <l>And conduit like convoyes it throgh the fields,</l>
+               <l>So that albeit it generall now bee come,</l>
+               <l>Were not this Towne, they ſhortly would ſing dumbe.</l>
+               <l>For heere ſo long its reſidence hath beene,</l>
+               <l>That whence comes Muſick but from <hi>Aberdene.</hi>
+               </l>
+               <l>And in its ſelfe ſo much it doth abound:</l>
+               <l>That ev'n the bells ring muſick when they ſound</l>
+               <l>As Likewiſe, what is by rare men invented,</l>
+               <l>Within themſelves by <hi>Raban</hi> is imprinted:</l>
+               <l>Which <hi>Rabans</hi> skill doth ſoare and ſo ariſe,</l>
+               <l>That in his workes, hee doth ſurmount the skies</l>
+               <l>And in whoſe Perſon, doth appeare theſe three,</l>
+               <l>A Poet, Printer, one for Propheſie.</l>
+               <l>So I will ceaſe, albeit I more could ſay,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ecauſe their vertues doe increaſe each day,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſince I can not, wryte even what I will,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> vnto perfection heereintill:</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rofeſſe and heerewithall will reſt,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owne doth much triumph, theſe men are bleſt,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>erefore who reads in reverence, this record,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee the doubtleſſe due of <hi>Bon-acord.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="part">
+            <pb facs="tcp:183762:11"/>
+            <p>
+               <table>
+                  <head>The Counſell Table of New Aberdene.</head>
+                  <row>
+                     <cell>1.</cell>
+                     <cell>3.</cell>
+                     <cell>5.</cell>
+                     <cell>7.</cell>
+                     <cell>9.</cell>
+                     <cell>11.</cell>
+                     <cell>13.</cell>
+                     <cell>15.</cell>
+                     <cell>17.</cell>
+                     <cell rows="3"> </cell>
+                  </row>
+                  <row>
+                     <cell>B.</cell>
+                     <cell>B.</cell>
+                     <cell>D.</cell>
+                     <cell>T.</cell>
+                     <cell>C.</cell>
+                     <cell>M.</cell>
+                     <cell>M.</cell>
+                     <cell>C.</cell>
+                     <cell>T.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>G.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>M.</cell>
+                     <cell>I.</cell>
+                     <cell> </cell>
+                     <cell>C.</cell>
+                  </row>
+                  <row>
+                     <cell>16</cell>
+                     <cell>P. M. P.</cell>
+                     <cell cols="7">BON-ACORD</cell>
+                     <cell>33</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>M.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>M.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell rows="3"> </cell>
+                  </row>
+                  <row>
+                     <cell>B.</cell>
+                     <cell>B.</cell>
+                     <cell>K.</cell>
+                     <cell>C.</cell>
+                     <cell>C.</cell>
+                     <cell>H.</cell>
+                     <cell>C.</cell>
+                     <cell>C.</cell>
+                     <cell>C.</cell>
+                  </row>
+                  <row>
+                     <cell>2.</cell>
+                     <cell>4.</cell>
+                     <cell>6.</cell>
+                     <cell>8.</cell>
+                     <cell>10.</cell>
+                     <cell>12.</cell>
+                     <cell>14.</cell>
+                     <cell>16.</cell>
+                     <cell>18.</cell>
+                  </row>
+               </table>
+            </p>
+            <lg>
+               <l>Behold the Counſell ſeat of <hi>Bon-acord,</hi>
+               </l>
+               <l>How it with reverent Senators is ſtord,</l>
+            </lg>
+            <lg>
+               <l>Let <hi>Meinzies</hi> remaine, as governour fit,</l>
+               <l>Let <hi>Lowſon</hi> likewiſe a counſeller ſit:</l>
+               <l>Let <hi>Leſlie</hi> liue alſo a ruler ſtill there,</l>
+               <l>Let <hi>Colinſon</hi> likewiſe, for vertues moſt rare,</l>
+               <l>Let <hi>Gray</hi> in governing, as worthie be had,</l>
+               <l>Let <hi>Lomſdena</hi> Dean, if no more bee read:</l>
+               <l>Let <hi>Forquhare</hi> ſtill maſter of Kirke worke bee kend,</l>
+               <l>Let <hi>Keillo</hi> bee Treaſaurer, ay to the end,</l>
+               <l>Let <hi>Colinſon, Meinzies,</hi> and <hi>Stewart</hi> all three,</l>
+               <l>Let <hi>Cochrum</hi> as alſo ſtill Counſellers bee,</l>
+               <l>Let <hi>Duvie,</hi> and <hi>Paipe,</hi> and <hi>Duffe</hi> bee no leſſe,</l>
+               <l>Let <hi>Ramſay</hi> and <hi>Clarke</hi> their knowledge expreſſe,</l>
+               <l>Let <hi>Gairdin</hi> bee Deacon convener as due,</l>
+               <l>Becauſe his aſſiſtance, giues aide vnto you:</l>
+               <l>Let <hi>Robertſon, Clarke,</hi> for cunningneſſr bee,</l>
+               <l>Let <hi>Ingrem</hi> his actions, in abſence ſupplie,</l>
+               <l>And ſo from the Proveſt, where firſt I began,</l>
+               <l>The Cities ſoll comfort, that generous man,</l>
+               <l>I heere haue expreſt, the Baillies and loe,</l>
+               <l>The Counſellers likewiſe, whoſe wiſedomes I know:</l>
+               <l>Which number, no queſtion by their actions ſhew out<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:12"/>
+            <head>TO THE RIGHT HONOVRABLE, THE RIGHT Worthie, and truely Religious, <hi>Paul Meinzies</hi> of <hi>Kilmoundie,</hi> Lord Proveſt.</head>
+            <div type="anagrams">
+               <lg>
+                  <head>1. Anag.</head>
+                  <l>Pleis me in zeal:</l>
+               </lg>
+               <lg>
+                  <head>2. Anag.</head>
+                  <l>I ſpie ye ev'll man.</l>
+               </lg>
+               <lg>
+                  <l>Verſ. <hi>Pleis me in zeal,</hi> of ſinne I'm grieved whan,</l>
+                  <l>Within my place, <hi>I ſpie the ev'll man.</hi>
+                  </l>
+                  <l>Verſ. <hi>Pleas me in ze'll</hi> in vyce doe not debord,</l>
+                  <l>I cannot ſuffer ſinne in <hi>Bon-acord.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <head>Acroſtick.</head>
+               <lg>
+                  <l>
+                     <hi>P</hi> Praiſde worthy <hi>Timoleon,</hi> generous, mylde, &amp; graue</l>
+                  <l>
+                     <hi>A</hi> A <hi>Grecian</hi> borne, whoſe vertues are inrolde,</l>
+                  <l>
+                     <hi>W</hi> Whoſe valour did a Puiſant Prince, and braue,</l>
+                  <l>
+                     <hi>L</hi> Lead captiue, cald <hi>Dioniſius,</hi> vncontrold,</l>
+                  <l>
+                     <hi>M</hi> Moſt worthie Chiftan, whom the earth could clame</l>
+                  <l>
+                     <hi>E</hi> Even he whoſe acts, the vniverſe doth view,</l>
+                  <l>
+                     <hi>I</hi> Is not to bee more eternizde by fame,</l>
+                  <l>
+                     <hi>N</hi> Nor thou for worth (to witneſſe) who thee knew:</l>
+                  <l>
+                     <hi>Z</hi> Zeale is thy glorie, ſtill thou aimes for peace,</l>
+                  <l>
+                     <hi>E</hi> Eternall praiſe, thy labours ſhall adore:</l>
+                  <l>
+                     <hi>I</hi> In thee true honour dignifies thy place,</l>
+                  <l>
+                     <hi>S</hi> Since in thy breaſt, all vertues reſt in ſtore.</l>
+               </lg>
+               <lg>
+                  <l>And as <hi>Timoleon, Cicil</hi> did maintaine,</l>
+                  <l>Likewiſe thy wiſedome ruleth <hi>Aberdene.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="sonnet">
+               <pb facs="tcp:183762:12"/>
+               <head>Ad Eundem.</head>
+               <head>SONNET.</head>
+               <lg>
+                  <l>By name<hi rend="sup">1</hi>, by place<hi rend="sup">2</hi>, by birth<hi rend="sup">3</hi>, by fame<hi rend="sup">4</hi>, thou art<hi rend="sup">5</hi>,</l>
+                  <l>A Paul<hi rend="sup">1</hi>, a Proveſt<hi rend="sup">2</hi>, noble<hi rend="sup">3</hi>, wiſe<hi rend="sup">4</hi>, expert<hi rend="sup">5</hi>,</l>
+                  <l>The Townes triumph, a governour moſt fit,</l>
+                  <l>For conſcience, knowledge, cariage, faith, and wit.</l>
+               </lg>
+               <lg>
+                  <l>Belovd<hi rend="sup">1</hi>, approvd<hi rend="sup">2</hi>, admeerd<hi rend="sup">3</hi>, reteerd<hi rend="sup">4</hi>, and thou<hi rend="sup">5</hi>,</l>
+                  <l>By all<hi rend="sup">1</hi>, for all<hi rend="sup">2</hi>, in all<hi rend="sup">3</hi>, from ill<hi rend="sup">4</hi>, art true<hi rend="sup">5</hi>,</l>
+                  <l>Procleamd<hi rend="sup">1</hi>, eſteemde<hi rend="sup">2</hi>, vnſtaind<hi rend="sup">3</hi>, and treaſure<hi rend="sup">4</hi> ſure<hi rend="sup">5</hi>,</l>
+                  <l>For worth<hi rend="sup">1</hi>, in life<hi rend="sup">3</hi>, for faith<hi rend="sup">2</hi>, which ſhall<hi rend="sup">4</hi>, indure<hi rend="sup">5</hi>.</l>
+               </lg>
+               <lg>
+                  <l>The head<hi rend="sup">1</hi>, the hope<hi rend="sup">2</hi>, the helpe<hi rend="sup">3</hi>, who doth afford<hi rend="sup">4</hi>,</l>
+                  <l>The ſence<hi rend="sup">1</hi>, they haue<hi rend="sup">2</hi>, each day<hi rend="sup">3</hi>, in Bon-acord<hi rend="sup">4</hi>.</l>
+                  <l>Who as a jewell, richt with thoſe gifts ſo rare,</l>
+                  <l>Decores the Towne, ſtill while thou ruleſt there.</l>
+               </lg>
+               <lg>
+                  <l>And as thy worth, hath conquiſht great renowne,</l>
+                  <l>Ev'n ſo thy head, deſerves a Lawrell crowne.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:13"/>
+            <head>To the right honorable <hi>Gilbert Meinzies</hi> of <hi>Petfodels.</hi>
+            </head>
+            <div type="anagram">
+               <l>Anag. <hi>Ye ſe I afford moſt gudnes, le'ſt ill.</hi>
+               </l>
+               <lg>
+                  <l>Verſ. <hi>Ye ſee moſt gudnes,</hi> dayly <hi>I afford,</hi>
+                  </l>
+                  <l>Likewiſe <hi>le'ſt il,</hi> for ill by me is abhord.</l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <head>Acroſtick.</head>
+               <lg>
+                  <l>
+                     <hi>G</hi> Giue <hi>Ages</hi> and <hi>Cleomines,</hi> were praiſde,</l>
+                  <l>
+                     <hi>I</hi> In <hi>Sparta,</hi> two young Princes, valorous, wiſe</l>
+                  <l>
+                     <hi>L</hi> Likewiſe is <hi>Gaius</hi> and <hi>Tiberius</hi> raiſde:</l>
+                  <l>
+                     <hi>B</hi> Braue hopefull Princes, to the worlds eyes,</l>
+                  <l>
+                     <hi>E</hi> Even ſince and as, their fortune paſt their yeares,</l>
+                  <l>
+                     <hi>R</hi> Renownde their worth is, o're their fottunes farre:</l>
+                  <l>
+                     <hi>T</hi> That nought till now, as all beholders ſees,</l>
+                  <l>
+                     <hi>M</hi> Might any match be found, their worth to warre:</l>
+                  <l>
+                     <hi>E</hi> Eſtabliſh therefore, I thy valour would,</l>
+                  <l>
+                     <hi>I</hi> In due compare theſe Princes to exceed,</l>
+                  <l>
+                     <hi>N</hi> No leſſe in noble vertues manyfold,</l>
+                  <l>
+                     <hi>Y</hi> Yen are theſe gifts in thee which nature breed,</l>
+                  <l>
+                     <hi>E</hi> Eſpeciall ſince theſe foreſaid foure heere pend,</l>
+                  <l>
+                     <hi>I</hi> In all externall gifts, were not more rare,</l>
+                  <l>
+                     <hi>S</hi> Since alſo o're them doe thy praiſe extend,</l>
+               </lg>
+               <lg>
+                  <l>And ſince thy prudence ſcarce can finde compare,</l>
+                  <l>Thou by whoſe name, and fame wee plainely ſee,</l>
+                  <l>Both noble birth, and liues in libertie.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:13"/>
+            <head>To M<hi rend="sup">r</hi>. <hi>VIDAST LOWSONE.</hi>
+            </head>
+            <div type="anagram">
+               <l>Anag. <hi>Lou's ay ſet downe, Lou's eldaſt ſon.</hi>
+               </l>
+               <lg>
+                  <l>Verſ. <hi>Lous ay ſet down,</hi> where thou doſt ſit, and loe,</l>
+                  <l>Thy name neere ſayes, <hi>Lou's eldeſt ſon,</hi> alſo.</l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <head>Acrostick.</head>
+               <lg>
+                  <l>
+                     <hi>W</hi> Wiſe <hi>Cato minor,</hi> noble Romane hee,</l>
+                  <l>
+                     <hi>E</hi> Even in his time, moſt graue was thought to bee:</l>
+                  <l>
+                     <hi>D</hi> Doe wee not of <hi>Pericles</hi> likewiſe read,</l>
+                  <l>
+                     <hi>A</hi> As one vnto whoſe praiſe, all Greece agreed:</l>
+                  <l>
+                     <hi>S</hi> Since at his death, hee gloried and did ſay,</l>
+                  <l>
+                     <hi>T</hi> That hee offended no man to that day:</l>
+                  <l>
+                     <hi>L</hi> Likewiſe that hee had no occaſion wrought,</l>
+                  <l>
+                     <hi>O</hi> Of mourning when, hee to his graue was brought:</l>
+                  <l>
+                     <hi>W</hi> Was rather for his wiſedome much admeerde,</l>
+                  <l>
+                     <hi>S</hi> Since from all vyce, his vertues war reteerd:</l>
+                  <l>
+                     <hi>O</hi> Onely there's equall now appeares by thee,</l>
+                  <l>
+                     <hi>N</hi> No leſſe in wiſedome, grace and gravitie:</l>
+               </lg>
+               <lg>
+                  <l>For in thy time, where vyce would worke awry,</l>
+                  <l>Thou it reclaimes moſt conſcienciouſly.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Ad Eundem.</head>
+               <lg>
+                  <l>Mylde wiſedome, vertue, knowledge power, and place,</l>
+                  <l>Religion, juſtice equitie and peace:</l>
+                  <l>All full of faith, vnited are in one,</l>
+                  <l>To make thy ſelfe a map of worth alone:</l>
+                  <l>Not that I faine, but rather ſtandes in feare,</l>
+                  <l>Leaſt in thy praiſe deficient I appeare:</l>
+                  <l>Becauſe no bud, or brybrie can bereaue,</l>
+                  <l>Theſe of true juſtice, who thy aide doth craue:</l>
+                  <l>Then in few words, this to thy praiſe I pen,</l>
+                  <l>Thou'rt loude by GOD, and much admeerd by men:</l>
+                  <l>For proofe, becauſe thou'rt firſt preferd by God</l>
+                  <l>And men (for worth) acconts thy vertues od.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:14"/>
+            <head>To <hi>PATRICK LESLIE</hi> Baillie.</head>
+            <div type="anagram">
+               <l>Anag. <hi>I pertack les il.</hi>
+               </l>
+               <lg>
+                  <l>Verſ. <hi>I pertack les il,</hi> nor many who would clame,</l>
+                  <l>To be cald good, for ſo imports my name.</l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <head>Acroſtick.</head>
+               <lg>
+                  <l>
+                     <hi>P</hi> Preferrd was valorous <hi>Alcibiades,</hi>
+                  </l>
+                  <l>
+                     <hi>A</hi> And ſtill eſteemde the ſword of Greece to bee,</l>
+                  <l>
+                     <hi>T</hi> That in his time, to no man would giue place,</l>
+                  <l>
+                     <hi>R</hi> Rulling regions, moſt couragiouſly,</l>
+                  <l>
+                     <hi>I</hi> Into whoſe praiſe, this likewiſe is approvde,</l>
+                  <l>
+                     <hi>C</hi> Continually that hee did paine ſuſtaine:</l>
+                  <l>
+                     <hi>K</hi> Knowing his natiue countrie to bee movde,</l>
+                  <l>
+                     <hi>L</hi> Leaſt in defence, his ſervice was not ſeene:</l>
+                  <l>
+                     <hi>E</hi> Even hee whoſe power did diverſe times orecome,</l>
+                  <l>
+                     <hi>S</hi> Such <hi>Perſian</hi> Emperour, greateſt in his dayes,</l>
+                  <l>
+                     <hi>L</hi> Layes downe his ſword to thee, as one to whom,</l>
+                  <l>
+                     <hi>I</hi> Into thy actions, merites endleſſe praiſe,</l>
+                  <l>
+                     <hi>E</hi> Eternally that thou the ſword may brooke,</l>
+               </lg>
+               <lg>
+                  <l>Since in thy favours, hee the ſame forſooke.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Ad Eundem.</head>
+               <lg>
+                  <l>True courage, valour, worth and manhood mixt,</l>
+                  <l>Wherewith are kindneſſe, loue and faith prefixt:</l>
+                  <l>Though young, yet wiſe, though ſtout, yet wondrous loath,</l>
+                  <l>To execute thy humor being wroth.</l>
+                  <l>Of ancient ſtem, and yet no pryde appeares,</l>
+                  <l>But proues ſo modeſt as the earth admeeres,</l>
+                  <l>By ſame moſt faithfull, and in promiſe true,</l>
+                  <l>And who doth ſtrive, all vice for to eſchue,</l>
+                  <l>One of thy ſelfe, ev'n of more worth than I</l>
+                  <l>Have skill to write, or yet to verſifie,</l>
+                  <l>Therefore concludes thy vertues who envyes.</l>
+                  <l>Couragious Leſlie all his foes defyes.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:14"/>
+            <head>To <hi>GILBERT COLENSONE</hi> Baillie.</head>
+            <div type="anagram">
+               <l>Anag. <hi>No cruell ſin begotin.</hi>
+               </l>
+               <lg>
+                  <l>Verſ. <hi>No cruell ſin begotin,</hi> is in thee,</l>
+                  <l>But rather merits <hi>Pompeyes</hi> praiſe truely.</l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <head>Acroſtick.</head>
+               <lg>
+                  <l>
+                     <hi>G</hi> Gif <hi>Pompey</hi> was amongſt the Romans lovde,</l>
+                  <l>
+                     <hi>I</hi> In ſo farre as his cariage was moſt myld:</l>
+                  <l>
+                     <hi>L</hi> Likewiſe his valour makes his worth approvde,</l>
+                  <l>
+                     <hi>B</hi> Becauſe by blame his deeds were vndefyld:</l>
+                  <l>
+                     <hi>E</hi> Even who ſubdude, full many kingdomes then,</l>
+                  <l>
+                     <hi>R</hi> Renownd was by the Romanes for his wit,</l>
+                  <l>
+                     <hi>T</hi> That in his time was much eſteemde by men,</l>
+                  <l>
+                     <hi>C</hi> Confeſt likewiſe to bee a ruler fit.</l>
+                  <l>
+                     <hi>O</hi> Onely till now no ſecond hath beene ſeene,</l>
+                  <l>
+                     <hi>L</hi> Like to this <hi>Pompey,</hi> but thy ſelfe I ſweare,</l>
+                  <l>
+                     <hi>I</hi> Into whoſe praiſe moſt duelie appertaine,</l>
+                  <l>
+                     <hi>N</hi> No leſſe then all, that is included heere.</l>
+                  <l>
+                     <hi>S</hi> Such as are theſe, true favour free from ill,</l>
+                  <l>
+                     <hi>O</hi> One modeſt, wiſe, both myld and graue alſo,</l>
+                  <l>
+                     <hi>N</hi> Not that its ſaid, but ſignifide intill,</l>
+               </lg>
+               <lg>
+                  <l>Thy actions, which in ſubſtance yeeld a ſhow,</l>
+                  <l>And as the Romans <hi>Pompeys</hi> praiſe approvde,</l>
+                  <l>No leſſe thy wayes in <hi>Bon-acord</hi> are lovde.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Ad Eundem.</head>
+               <lg>
+                  <l>If it ſhould not bee partiall thought in mee,</l>
+                  <l>Becauſe of friendſhip or affinitie:</l>
+                  <l>I would my Muſe, as worthie not admit,</l>
+                  <l>For to deſcryue thy vertue, worth, and wit:</l>
+                  <l>Since that no citie, nor no countrie can,</l>
+                  <l>Produce, afford, or yeeld more wiſe young man,</l>
+                  <l>So young I ſay, becauſe more dayes hath Iuly,</l>
+                  <l>Nor thou hath yeeres, thy age who reckons truely:</l>
+                  <l>And looke what yeere doe manieſt minuts moue,</l>
+                  <l>They can not match the number who thee loue:</l>
+                  <l>Whoſe worth no view, as yeares or minutes yeeld,</l>
+                  <l>But where profeſt in loue, laſts as a ſheeld.</l>
+                  <l>Since neither endleſſe time, nor ſuddaine change,</l>
+                  <l>Thy loyall loue, or friendſhip can eſtrainge.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:15"/>
+            <head>To Mr, THOMAS GRAY, Baillie.</head>
+            <div type="anagram">
+               <l>Anag, <hi>I go arayt ma'ſt rair.</hi>
+               </l>
+               <lg>
+                  <l>Verſ. Hee <hi>go's arayt ma'ſt rair,</hi> with gifts of minde</l>
+                  <l>Wherewith all outward vertues are combynd.</l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <head>Sonnet Acrostick.</head>
+               <lg>
+                  <l>Maſter</l>
+                  <l>
+                     <hi>T</hi> That <hi>Brutus,</hi> whom a Roman was by birth,</l>
+                  <l>
+                     <hi>H</hi> Heroick, and yet modeſt in his minde,</l>
+                  <l>
+                     <hi>O</hi> One whom by <hi>Ceſar,</hi> was eſteemde for worth,</l>
+                  <l>
+                     <hi>M</hi> Man in his time, for ſecond hee could finde.</l>
+                  <l>
+                     <hi>A</hi> Albeit by birth, hee was brought foorth againe,</l>
+                  <l>
+                     <hi>S</hi> Should not bee thought but equall vnto thee,</l>
+                  <l>
+                     <hi>G</hi> Graue, modeſt, wiſe, whoſe worth ſhall ay remaine,</l>
+                  <l>
+                     <hi>R</hi> Renownde for prudence, and humilitie.</l>
+                  <l>
+                     <hi>A</hi> A man moſt meete in publicke place to ſtand,</l>
+                  <l>
+                     <hi>Y</hi> Yea, peereleſſe off-ſpring, or the paterne rather,</l>
+               </lg>
+               <lg>
+                  <l>Of ſuch a parent, preſently at hand,</l>
+                  <l>Who is thought worthie of ſuch faithfull father:</l>
+                  <l>Or who ſhould bee, if <hi>Ceſar,</hi> liud to day,</l>
+                  <l>A helpe to him, ſince <hi>Brutus</hi> made but way.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Ad Eundem.</head>
+               <lg>
+                  <l>It is a wonder to perceiue and ſee,</l>
+                  <l>A man ſo youthfull, deckt with modeſtie:</l>
+                  <l>As thou art ſeene, and as thy deedes approue,</l>
+                  <l>Each day, which doth proceede from faithfull loue.</l>
+                  <l>And yet if wee conſider will aright,</l>
+                  <l>It ſhall appeare no wonder in our ſight,</l>
+                  <l>Since wee may ſurely apprehend, that God.</l>
+                  <l>Ingraft theſe gifts in thee which are moſt od</l>
+                  <l>To ſhew how hee, his benefites impart,</l>
+                  <l>To thee whoſe worth, them merit by deſert,</l>
+                  <l>
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> for to proue how hee appeares each day,</l>
+                  <l>
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to procure thy fame, may laſt for ay.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:15"/>
+            <head>To M<hi rend="sup">r</hi>. MATHEW LOMSDEN, Dean of Gild.</head>
+            <div type="anagram">
+               <l>Anag. <hi>Al the town deſ'rs me maſt.</hi>
+               </l>
+               <lg>
+                  <l>Verſ. <hi>Al the town des'rs me maſt</hi> to bee</l>
+                  <l>Theirs: and of trueth, the ſame is wiſht by mee</l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <head>Sonnet Acroſtick.</head>
+               <lg>
+                  <l>Maſter</l>
+                  <l>
+                     <hi>M</hi> Moſt worthie, forward <hi>Philophemenes,</hi>
+                  </l>
+                  <l>
+                     <hi>A</hi> A Grecian borne, and man of ancient race,</l>
+                  <l>
+                     <hi>T</hi> That in his pryme, or as his grandor roſe</l>
+                  <l>
+                     <hi>H</hi> Had much envy by many Romiſh foes,</l>
+                  <l>
+                     <hi>E</hi> Even for his care his countrie to preſerue,</l>
+                  <l>
+                     <hi>W</hi> Wherefore at laſt hee was content to ſtarue:</l>
+                  <l>
+                     <hi>L</hi> Like to this man, thou doubtleſſe art I meane,</l>
+                  <l>
+                     <hi>O</hi> Onely except, invyde, thou art not ſeene,</l>
+                  <l>
+                     <hi>M</hi> Moſt carefull for thy towne and countrie, and</l>
+                  <l>
+                     <hi>S</hi> So forward therefore, thou decores the land,</l>
+                  <l>
+                     <hi>D</hi> Due praiſe pertaines therefore to thee and maire,</l>
+                  <l>
+                     <hi>E</hi> Eſteemd to bee, nor <hi>Philopemenes</hi> heere:</l>
+                  <l>
+                     <hi>N</hi> Not for thy care alone, but likewiſe loue,</l>
+               </lg>
+               <lg>
+                  <l>Which ſtill the towne as they imploy approue,</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Ad Eundem.</head>
+               <lg>
+                  <l>Thy conſcience, knowledge, and thy pregnant wit,</l>
+                  <l>Makes thee bee thought a counſeller moſt fit:</l>
+                  <l>Thy faithfull forward friendſhip to the towne,</l>
+                  <l>Affords juſt cauſe to conquiſh thee renowne.</l>
+                  <l>The care and loue which thereintill thou beares,</l>
+                  <l>Makes all therein, that they thy worth admeeres:</l>
+                  <l>Thou art moſt meete, a generall charge to haue,</l>
+                  <l>Since thou can render juſtice where they craue:</l>
+                  <l>And to bee briefe, my burden is too great,</l>
+                  <l>To praiſe thy worth, and vertues moſt perfyte:</l>
+                  <l>Who as in all things, ſo in learning thou,</l>
+                  <l>Was firſt a Maſter, now a Dean I vow.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:16"/>
+            <head>To Maſter ROBERT FARWHAIRS.</head>
+            <div type="anagram">
+               <l>Anag. <hi>My reſt rests farr aboue.</hi>
+               </l>
+               <lg>
+                  <l>Verſ. My Anagramme ſayes, albeit on earth I move,</l>
+                  <l>From earthly ſence: <hi>My reſt reſts farr aboue.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <head>Sonnet Acroſtick.</head>
+               <lg>
+                  <l>
+                     <hi>R</hi>enound <hi>Lucullus,</hi> hee of whom its told,</l>
+                  <l>
+                     <hi>O</hi>'re <hi>Mithridates</hi> domineered ſtill,</l>
+                  <l>
+                     <hi>B</hi>rought likewiſe low <hi>Tigranes</hi> vncontrould,</l>
+                  <l>
+                     <hi>E</hi>ven that Armenian King tooke in his will.</l>
+                  <l>
+                     <hi>R</hi>eteirde at laſt, when hee theſe tropheis ended</l>
+                  <l>
+                     <hi>T</hi>o liue at home where hee was firſt brought foorth,</l>
+                  <l>
+                     <hi>F</hi>ull peaceably his private ſtate defended</l>
+                  <l>
+                     <hi>A</hi>nd waxt in wealth to extraordinar worth</l>
+                  <l>
+                     <hi>R</hi>egrating that I could no ſecond ſee,</l>
+                  <l>
+                     <hi>Q</hi>ho might heerein <hi>Lucullus</hi> match bee made:</l>
+                  <l>
+                     <hi>W</hi>hen I inquirde I tryall found of thee,</l>
+                  <l>
+                     <hi>H</hi>ow for thy vertues hee an equall had.</l>
+                  <l>
+                     <hi>A</hi> iuſt acquyrer of thy meanes, and lo,</l>
+                  <l>
+                     <hi>R</hi>enound for wiſe governament alſo.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <head>To CHARLES KEILO, Theſaurer,</head>
+            <div type="anagram">
+               <l>Anag. <hi>Loe yis rech Arke.</hi>
+               </l>
+               <lg>
+                  <l>Verſ. <hi>Lo yis rich Arke,</hi> containes much ſubſtance, and</l>
+                  <l>Grace doth governe, what this man takes in hand.</l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <head>Sonnet Acroſtick.</head>
+               <lg>
+                  <l>
+                     <hi>
+                        <hi>C</hi>raſſus,</hi> ſo much in wiſdome did abound,</l>
+                  <l>
+                     <hi>H</hi>is equall ſcarcely theirin could bee found:</l>
+                  <l>
+                     <hi>A</hi> man whoſe knowledge did great wealth attaine,</l>
+                  <l>
+                     <hi>R</hi>enounde lykewiſe for vertues as is ſeene,</l>
+                  <l>
+                     <hi>E</hi>ven hee who did governe his owne eſtate,</l>
+                  <l>
+                     <hi>L</hi>yke as his ſecond doth no time relate,</l>
+                  <l>
+                     <hi>S</hi>urely whoſe ſubſtance ſafely could vphold,</l>
+                  <l>
+                     <hi>K</hi>eepe, and maintaine great Armies manifold.</l>
+                  <l>
+                     <hi>I</hi>nto whoſe abſence I imput thy name,</l>
+                  <l>
+                     <hi>L</hi>ykewiſe to laſte with his in endles fame:</l>
+                  <l>
+                     <hi>L</hi>ooking moſt duely to thy vertues rare,</l>
+                  <l>
+                     <hi>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>r to thy actions ſcarce which finds compare.</l>
+               </lg>
+               <lg>
+                  <l>And who for worth, is choſen now wee ſee,</l>
+                  <l>The Theſaurer of this braue Towne to bee.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:16"/>
+            <head>To GEORGE MEINYEIS.</head>
+            <div type="anagram">
+               <l>Anag. <hi>Ye ſee me in no rage:</hi>
+               </l>
+            </div>
+            <div type="acrostic">
+               <head>Sonnet.</head>
+               <lg>
+                  <l>
+                     <hi>G</hi>race guides my goings, errours I abhorre,</l>
+                  <l>
+                     <hi>E</hi>ſteemd is vertue by me evermore:</l>
+                  <l>
+                     <hi>O</hi>f pride no partner I deſire to bee.</l>
+                  <l>
+                     <hi>R</hi>eteired I am from vile idolatrie.</l>
+                  <l>
+                     <hi>G</hi>od is the author each day of my aime,</l>
+                  <l>
+                     <hi>M</hi>an ſhall by mee receive no publick ſhame:</l>
+                  <l>
+                     <hi>E</hi>ven what is good in generall I allow,</l>
+                  <l>
+                     <hi>I</hi> love the vpright, vitious I eſhew,</l>
+                  <l>
+                     <hi>N</hi>o wrong I worke, my acts by faith aſpyre,</l>
+                  <l>
+                     <hi>
+                        <hi>Y</hi>e ſee in me no rage,</hi> and I deſire,</l>
+                  <l>
+                     <hi>E</hi>ternall trueth to bee the treaſure ſtill,</l>
+                  <l>
+                     <hi>I</hi>nto the which my hopes may reſt intill.</l>
+                  <l>
+                     <hi>S</hi>ay not I ſpeake as that proud Phariſee,</l>
+               </lg>
+               <lg>
+                  <l>I ſpeake but trueth, as ſhall approved bee</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <head>To ALEXANDER STVARTE.</head>
+            <div type="anagram">
+               <l>Anag. <hi>&amp; render reward at laſt.</hi>
+               </l>
+            </div>
+            <div type="acrostic">
+               <head>Sonnet.</head>
+               <lg>
+                  <l>
+                     <hi>A</hi>nd for to <hi>render</hi> (iuſt) <hi>reward,</hi> muſt bee</l>
+                  <l>
+                     <hi>L</hi>ike to a <hi>Stuarte</hi> of ſinceritie:</l>
+                  <l>
+                     <hi>E</hi>ven one whoſe actions merits no ſuſpect,</l>
+                  <l>
+                     <hi>X</hi> and in whoſe charge is viewed no neglect:</l>
+                  <l>
+                     <hi>A</hi>ll thoſe in one accompliſht heere doe ſtand,</l>
+                  <l>
+                     <hi>N</hi>o leſſe in worth, then vertues rareſt band,</l>
+                  <l>
+                     <hi>D</hi>emanding good of him, thou ſhalt receive</l>
+                  <l>
+                     <hi>E</hi>ven for inſtruction what thy heart would crave,</l>
+                  <l>
+                     <hi>R</hi>enounde hee is: a <hi>Stuarte</hi> vpright, juſt</l>
+                  <l>
+                     <hi>S</hi>afely defending whats rendred in his truſt,</l>
+                  <l>
+                     <hi>T</hi>herefore to ſpeake to thee of him I'le end</l>
+                  <l>
+                     <hi>W</hi>ithout offence, and let my Muſe commend</l>
+                  <l>
+                     <hi>A</hi>ll what ſee I into this <hi>Stuarts</hi> face</l>
+                  <l>
+                     <hi>R</hi>emembring how hee doth decore his place.</l>
+                  <l>
+                     <hi>T</hi>o thee therefore I tell thee, <hi>Stuarte,</hi> truely</l>
+               </lg>
+               <lg>
+                  <l>I haue expreſt thy properties moſt duely.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:17"/>
+            <head>To ALEXANDER COLINSONE.</head>
+            <div type="anagram">
+               <l>Anag. <hi>And I excell in all reſon.</hi>
+               </l>
+               <lg>
+                  <l>Verſ. With ſpirituall gifts, <hi>in reſon to excell,,</hi>
+                  </l>
+                  <l>Makes thee accompliſht, ſo thy name doth tell</l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <head>Acrostick.</head>
+               <lg>
+                  <l>
+                     <hi>A</hi>lbeit <hi>Marcellus,</hi> that braue Roman rare,</l>
+                  <l>
+                     <hi>L</hi>ives yet by fame, for vertues but compare</l>
+                  <l>
+                     <hi>E</hi>ven hee, who was thought in his time to bee,</l>
+                  <l>
+                     <hi>X</hi>ceeding valorous, all the world may ſee.</l>
+                  <l>
+                     <hi>A</hi> man whoſe worth did vantage firſt attaine,</l>
+                  <l>
+                     <hi>N</hi>o leſſe then of braue <hi>Hanib all</hi> I meane,</l>
+                  <l>
+                     <hi>D</hi>oubtleſſe of whom this <hi>Hanib all</hi> confeſt,</l>
+                  <l>
+                     <hi>E</hi>ven victor, nor yet vanquiſht could hee reſt,</l>
+                  <l>
+                     <hi>R</hi>enownd abroad for valour, and by grace,</l>
+                  <l>
+                     <hi>C</hi>ald to his Friends, a comfort and ſolace</l>
+                  <l>
+                     <hi>O</hi>f thee hee now, a ſecond ſhall receaue,</l>
+                  <l>
+                     <hi>L</hi>yke to himſelfe, both actiue, wiſe, and graue<g ref="char:punc">▪</g>
+                  </l>
+                  <l>
+                     <hi>I</hi>nto whoſe perſon, did appeare as provde,</l>
+                  <l>
+                     <hi>N</hi>o error, but by all men is belovde,</l>
+                  <l>
+                     <hi>S</hi>urely abroad thy worth is viewd and ſeene,</l>
+                  <l>
+                     <hi>O</hi> but at home a comfort thou haſt beene,</l>
+                  <l>
+                     <hi>N</hi>o more then ſhall <hi>Marcellus</hi> bee I vow,</l>
+                  <l>
+                     <hi>E</hi>ſteemde or praiſde, more righteouſly then thou.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <head>To GWALTER COCHRVME Maſter of the mortified monyes.</head>
+            <div type="anagram">
+               <l>Anag. <hi>Trwlee much grace.</hi>
+               </l>
+            </div>
+            <div type="acrostic">
+               <head>Sonnet.</head>
+               <lg>
+                  <l>
+                     <hi>G</hi>iue, <hi>truely much grace,</hi> in thy name is red,</l>
+                  <l>
+                     <hi>W</hi>hat to thy praiſe more can bee wiſht or had?</l>
+                  <l>
+                     <hi>A</hi>nd if the ſame were not approvde in thee,</l>
+                  <l>
+                     <hi>L</hi>ovd as thou art, by all thou would not bee:</l>
+                  <l>
+                     <hi>T</hi>hat place whoſe charge, doth in thy power conſiſt,</l>
+                  <l>
+                     <hi>E</hi>ſteemde is more, for thy cauſe by the reſt,</l>
+                  <l>
+                     <hi>R</hi>enownd thou art, for trueth but treacherie:</l>
+                  <l>
+                     <hi>C</hi>ompoſde of earthly immortalitie,</l>
+                  <l>
+                     <hi>O</hi>f all belovde, and doubtleſſe who doth ſtand,</l>
+                  <l>
+                     <gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ontrold by none, of what lyes in thy hand,</l>
+                  <l>
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> forth therefore my Muſe ſhall ever aime,</l>
+                  <l>
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> thy praiſe in poems to proclaime:</l>
+                  <l>
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and what, I heere of thee haue <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:17"/>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 paragraph">
+                  <desc>〈1 paragraph〉</desc>
+               </gap>
+            </p>
+            <lg>
+               <l>
+                  <hi>A</hi>nd <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>T</hi>hy <hi>aide</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> labours leanes,</l>
+               <l>
+                  <hi>R</hi>emembrin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> helpe proceedes from thee.</l>
+               <l>
+                  <hi>I</hi>ndeed as du<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thy worth they teſtifie,</l>
+               <l>
+                  <hi>K</hi>eepes it likewiſe in ſtore where they remaine,</l>
+               <l>
+                  <hi>D</hi>oubtleſſe their prayers ſhall win a place to thee,</l>
+               <l>
+                  <hi>I</hi>n heaven where thou ſhall liue apart from paine.</l>
+               <l>
+                  <hi>V</hi>hat to thy praiſe then ſhall <hi>I</hi> pen but this,</l>
+               <l>
+                  <hi>E</hi>ternally thous liue in heavenly bleſſe.</l>
+            </lg>
+         </div>
+         <div type="eulogy">
+            <head>To THOMAS PAIPE, maſter of the impoſts.</head>
+            <div type="anagram">
+               <l>Anag. <hi>Moſt happ'e ay.</hi>
+               </l>
+               <lg>
+                  <l>Verſ. <hi>Moſt happ'e ay,</hi> may wee account thy fame,</l>
+                  <l>Since nought but that, is found into thy name.</l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <head>Sonnet Acroſtick.</head>
+               <lg>
+                  <l>
+                     <hi>T</hi>hough <hi>Guido Pape</hi> was for wiſedome thought,</l>
+                  <l>
+                     <hi>H</hi>ee in his time whom natures beſt had wrought:</l>
+                  <l>
+                     <hi>O</hi>f wit ſo rare, hee rulled alwayes then,</l>
+                  <l>
+                     <hi>M</hi>oſt faithfully, his friends and countrie men,</l>
+                  <l>
+                     <hi>A</hi>nd by his counſels, ſubtill, graue, and ſure,</l>
+                  <l>
+                     <hi>S</hi>hynd as a light whoſe labours yet indure,</l>
+                  <l>
+                     <hi>P</hi>raiſe him I would with thee, and thee with him,</l>
+                  <l>
+                     <hi>A</hi>lbeit I can to none your vertues clim,</l>
+                  <l>
+                     <hi>I</hi>f I could but for thy cauſe praiſe him duely,</l>
+                  <l>
+                     <hi>P</hi>raiſde hee ſhould bee, in praiſing thee moſt truely,</l>
+                  <l>But I to praiſe you both may doe my beſt,</l>
+                  <l>And yet vnpraiſde ſufficiently muſt reſt.</l>
+                  <l>Onely of him this much his worth is told,</l>
+                  <l>And thine each day moſt vively wee behold.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:18"/>
+            <p>
+               <gap reason="illegible" resp="#APEX" extent="1 paragraph">
+                  <desc>〈1 paragraph〉</desc>
+               </gap>
+            </p>
+            <lg>
+               <l>Lo ſcarce ſufficient ſhall it ſeeme <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+               <l>Even who for worth is wondred in thy</l>
+               <l>Xceeding wiſe and full of veritie:</l>
+               <l>And who doth walke in true ſinceritie,</l>
+               <l>No wayes offenſive, or moleſting none:</l>
+               <l>Doubtleſſe therefore, abroad proclaimde may bee</l>
+               <l>Eternall praiſes duely therevpon.</l>
+               <l>Reſt not, then Fame in haſte, but bee thou gone,</l>
+               <l>Direct thy courſe, whence, where thou never flew,</l>
+               <l>Vith faith confirme, that thou doſt tell of one.</l>
+               <l>Farre more praiſe worth, than thou doſt yeeld a view.</l>
+               <l>Deſiring all where e're thou may bee hard</l>
+               <l>His praiſe for Prudence never bee debarde.</l>
+            </lg>
+         </div>
+         <div type="eulogy">
+            <head>To ROBERT RAMSEY.</head>
+            <div type="anagram">
+               <l>Anag. <hi>My reſts bettar.</hi>
+               </l>
+            </div>
+            <div type="acrostic">
+               <lg>
+                  <l>
+                     <hi>R</hi>eceive this briefe Encomium, or praiſe</l>
+                  <l>
+                     <hi>O</hi>f thy juſt merite, though in low-ſtyld phraſe:</l>
+                  <l>
+                     <hi>B</hi>ut weigh heerewith, that where the ſtreeme ſeemes ſtill</l>
+                  <l>
+                     <hi>E</hi>ven that the ground is deepeſt therintill</l>
+                  <l>
+                     <hi>R</hi>emember then, and let them all who read</l>
+                  <l>
+                     <hi>T</hi>heſe lynes of mine, give true attentiue head.</l>
+                  <l>
+                     <hi>R</hi>ecording heereby that thy worth may ſtand.</l>
+                  <l>
+                     <hi>A</hi>s due amongſt theſe worthie honoured band:</l>
+                  <l>
+                     <hi>M</hi>y Muſe may preaſe, for to import a part,</l>
+                  <l>
+                     <hi>S</hi>hee ſurely cannot more of thy deſert:</l>
+                  <l>
+                     <hi>E</hi>ſtabliſh therefore, I theſe lynes will now</l>
+                  <l>
+                     <gap reason="illegible" resp="#APEX" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> all who reades them may thy praiſe avow.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:18"/>
+            <head>To THOMAS GAIRDINE: Deacon conveener.</head>
+            <div type="anagram">
+               <l>Anag. <hi>Samſons gard in thee:</hi>
+               </l>
+               <lg>
+                  <l>
+                     <hi>Samſons gard in thee,</hi> ſince thou by votes commands,</l>
+                  <l>What would the Towne, ſuch powerlyes in thy hands.</l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <head>Sonnet</head>
+               <lg>
+                  <l>
+                     <hi>T</hi>heſe worthy forſaides, when in doubt they muſde,</l>
+                  <l>
+                     <hi>H</hi>ow, or by whom they might aſſiſtance crave.</l>
+                  <l>
+                     <hi>O</hi>f, and by all conſents, thy ſelfe they chuſde.</l>
+                  <l>
+                     <hi>M</hi>oſt meete in generall, and did thee receave.</l>
+                  <l>
+                     <hi>A</hi> man, vnto whoſe knowledge doth conſiſt,</l>
+                  <l>
+                     <hi>S</hi>uch parts, as publick are by all approvde:</l>
+                  <l>
+                     <hi>G</hi>ainde by conſent theſe worthies to aſſiſt,</l>
+                  <l>
+                     <hi>A</hi>nd for thy fame, who's duely now promovde.</l>
+                  <l>
+                     <hi>R</hi>emembring how thy vertues are eſteemde,</l>
+                  <l>
+                     <hi>D</hi>oubtleſſe I may, this to thy praiſe maintaine:</l>
+                  <l>
+                     <hi>I</hi>nto thy place thy prudence is proclaimde,</l>
+                  <l>
+                     <hi>N</hi>ot 'lone by mee, but by all <hi>Aberdeene:</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Since therein when their worthieſt aimes would faile,</l>
+                  <l>Vpſtands thy power, and doth by votes prevaile.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <head>To THOMAS CLARK.</head>
+            <div type="anagram">
+               <l>Anag. <hi>A moſt cle'r Ark.</hi>
+               </l>
+            </div>
+            <div type="acrostic">
+               <head>Acroſtick.</head>
+               <lg>
+                  <l>
+                     <hi>T</hi>hink not the worſe though I doe not impairt,</l>
+                  <l>
+                     <hi>H</hi>eere what thou merits, or thy juſt deſart:</l>
+                  <l>
+                     <hi>O</hi>f force I muſt confeſſe my taske too much,</l>
+                  <l>
+                     <hi>M</hi>y Muſe likewiſe too weake to write of ſuch.</l>
+                  <l>
+                     <hi>A</hi>nd yet leaſt that my weakneſſe ſhould appeare,</l>
+                  <l>
+                     <hi>S</hi>urely as due I muſt ſay ſomething heere:</l>
+                  <l>
+                     <hi>C</hi>onſidering with my Muſe, this I muſt ſay,</l>
+                  <l>
+                     <hi>L</hi>yke as thoſe worthies, thou ſhall live for ay,</l>
+                  <l>
+                     <hi>A</hi> man renound, by fame, for faith and grace,</l>
+                  <l>
+                     <hi>R</hi>eligious likewiſe knowen in this place:</l>
+                  <l>
+                     <hi>K</hi>eepe then thy rowme, or rather bee thou raiſde</l>
+               </lg>
+               <lg>
+                  <l>For as thou art thou merits to bee praiſde,</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:19"/>
+            <head>To GWALTER ROBERTSONE, Clerk,</head>
+            <div type="anagram">
+               <l>Anag. <hi>Lo, Aberdons wretter.</hi>
+               </l>
+            </div>
+            <div type="acrostic">
+               <head>Sonnet.</head>
+               <lg>
+                  <l>
+                     <hi>G</hi>iue for aſſiſtance, I would come to ſee,</l>
+                  <l>
+                     <hi>W</hi>ho would concurre vnto thy praiſe with mee:</l>
+                  <l>
+                     <hi>A</hi>ſſuredly each day I ſhould perceive,</l>
+                  <l>
+                     <hi>L</hi>ove to ſend forth more help than I can crave</l>
+                  <l>
+                     <hi>T</hi>heſe famous forſaids truelie would atteſt,</l>
+                  <l>
+                     <hi>E</hi>ven endleſſe knowledge in thy labours leſt:</l>
+                  <l>
+                     <hi>R</hi>enounde likewiſe into thy charge for wit,</l>
+                  <l>
+                     <hi>R</hi>ecording all the actions, paſt in it.</l>
+                  <l>
+                     <hi>O</hi>f all the bygones, in this Burgh they ſtand,</l>
+                  <l>
+                     <hi>B</hi>ound vp in lynes accompliſht by thy hand,</l>
+                  <l>
+                     <hi>E</hi>ven ſuch a charge, as if thou were not rare,</l>
+                  <l>
+                     <hi>R</hi> Rulde in order, it ſcarce could well bee there:</l>
+                  <l>
+                     <hi>T</hi>herefore thy Name for aye ſhall laſte indeede,</l>
+                  <l>
+                     <hi>S</hi>o long as all poſterities ſhall read.</l>
+                  <l>
+                     <hi>O</hi>r if that men ſhould bygone things forget,</l>
+                  <l>
+                     <hi>N</hi>o doubt but they ſhall in thy lines ſeeme late.</l>
+               </lg>
+               <lg>
+                  <l>Eſpeciall ſince thy deeds, as due record,</l>
+                  <l>The antient, endleſſe worth of <hi>Bona-cord</hi>
+                  </l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <head>To IOAN INGREME.</head>
+            <div type="anagram">
+               <l>Anag <hi>I agree in one.</hi>
+               </l>
+            </div>
+            <div type="acrostic">
+               <head>Sonnet.</head>
+               <lg>
+                  <l>
+                     <hi>I</hi>nto thy name I find a faithfull word</l>
+                  <l>
+                     <hi>O</hi>nly it ſayes, <hi>agreement</hi> I afford:</l>
+                  <l>
+                     <hi>A</hi> word of trueth, for ſo imports thy place,</l>
+                  <l>
+                     <hi>N</hi>ow while thou'rt conjunct with the Clerk a ſpace:</l>
+                  <l>
+                     <hi>I</hi>n generall when the Counſell doth conveene.</l>
+                  <l>
+                     <hi>N</hi>o doubt, in number thou muſtay bee one:</l>
+                  <l>
+                     <hi>G</hi>if like wiſe that the Clark ſhould abſent be,</l>
+                  <l>
+                     <hi>R</hi>emaine then muſt his charge (as due) on thee.</l>
+                  <l>
+                     <hi>E</hi>ven for thy knowledge and thy worth approved,</l>
+                  <l>
+                     <hi>M</hi>oſt duely, which in <hi>Bona-cord</hi> is loved</l>
+               </lg>
+               <lg>
+                  <l>Wherefore, for praiſe this much of thee I verſe,</l>
+                  <l>Who reads my lynes, ſhall ſtill thy worth reherſe,</l>
+               </lg>
+            </div>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:183762:19"/>
+            <head>THE HISTORIE OF <hi>SVSANNA.</hi>
+            </head>
+            <argument>
+               <head>The Argument.</head>
+               <lg>
+                  <l>THis Storie tels <hi>Suſanna's</hi> chaſt, though faire,</l>
+                  <l>As likewiſe doth theſe Iudges falſe declare:</l>
+                  <l>Her conſtant mynde, for to controll their aime,</l>
+                  <l>And for their fault what hapned vnto them,</l>
+                  <l>They with falſe judgement her condemnde to die,</l>
+                  <l>Gods Sprite appeares, convicts them, ſets her free:</l>
+                  <l>Her Parents, Husband, and her kinſfolke all,</l>
+                  <l>Praiſe God, who red <hi>Suſanna</hi> out of thrall.</l>
+                  <l>Whereby Gods power, theſe Iudges two diſgrace,</l>
+                  <l>And <hi>Daniels</hi> prudence, kytheth in this place:</l>
+                  <l>As likewiſe more this storie lets you ſee,</l>
+                  <l>
+                     <hi>Suſannas</hi> beauties buskt with chaſtitie.</l>
+               </lg>
+            </argument>
+            <lg>
+               <l>
+                  <seg rend="decorInit">I</seg>N <hi>Babylon</hi> reſided one by name,</l>
+               <l>Cald <hi>Ioacim,</hi> yet eternizde by fame,</l>
+               <l>Who did eſpouſe, and for his match receaue,</l>
+               <l>
+                  <hi>Suſanna,</hi> whom no courting could deceaue,</l>
+               <l>Who doubtleſſe was <hi>Chelchias</hi> bleſt borne chyld,</l>
+               <l>Since twofold fire, nor loue, nor hate defyld:</l>
+               <l>One wondrous faire, whoſe beautie was ſo braue,</l>
+               <l>It did graue <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udges, of their ſences reaue:</l>
+               <l>Whoſe Parents whence, by nature ſhee did ſpring,</l>
+               <l>Her in the Law of <hi>Moſes</hi> did vp bring,</l>
+               <l>Which <hi>Ioachim,</hi> ſo richly did abound</l>
+               <l>In wealth<g ref="char:punc">▪</g> that ſcarce his equall could bee found:</l>
+               <l>Vnto whoſe Palace, was ajoynde full neare,</l>
+               <l>An Orchard, which for pleaſure had no peare:</l>
+               <l>To whom the Iewes by cuſtome did repare,</l>
+               <l>Becauſe of all hee moſt was honoured there,</l>
+               <l>Now was preſcrivde, two ancient Iudges then,</l>
+               <l>For to reclaime the vitious wayes of men;</l>
+               <l>Who moſt frequented, and remainde at will,</l>
+               <l>In <hi>Ioacims</hi> houſe, the law for to fufill:</l>
+               <l>Whence when the folke, at noone tyde did reteare,</l>
+               <l>
+                  <hi>Suſanna</hi> in her Orchard did appeare,</l>
+               <l>
+                  <pb facs="tcp:183762:20"/>Who was perceavde by theſe two Elders ay,</l>
+               <l>As ſhee reſorted therein everie day:</l>
+               <l>On whom their luſt, inflaming ho<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e as fire,</l>
+               <l>Sought to accompliſh their vnchaſt deſire:</l>
+               <l>Withdrew their eyes, perverted ſo their minde,</l>
+               <l>Heaven not to ſee, whence they ſhould judgement find</l>
+               <l>And though they both, with loue were tortoured ſo,</l>
+               <l>The one durſt not, this to the other ſho,</l>
+               <l>For of their luſt, they both poſſeſt ſuch ſhame,</l>
+               <l>That heereof they, would not expreſſe their aime,</l>
+               <l>But alwayes watcht each houre, and did awake,</l>
+               <l>Till ſubtilly they could occaſion take,</l>
+               <l>Whereby they might their piercing paine expreſſe,</l>
+               <l>And haue the meanes whereby to finde redreſſe,</l>
+               <l>So when the time aproacht, when they ſhould eate,</l>
+               <l>Their ſtomackes ſtarving, more for loue then meate,</l>
+               <l>The one did ſay, thus to the other, Loe,</l>
+               <l>Now is the time wee muſt to dinner goe:</l>
+               <l>Therefore farewell each to another ſaid,</l>
+               <l>For they in minde a privat paction had,</l>
+               <l>And being parted, both returnd anone.</l>
+               <l>Vnto that place, from whence they ſtraight were gone</l>
+               <l>So they began betwixt them both to try,</l>
+               <l>They both were vrgd by one extreamity:</l>
+               <l>Then through one loue, or luſt, both did agree,</l>
+               <l>How they ſhould find fitt opportunitie:</l>
+               <l>Or when by fortune ſheé alone ſhould ſtand,</l>
+               <l>So that they thought they ſhould her loue command,</l>
+               <l>Who watching alwayes, found a time wherein,</l>
+               <l>Shee with her maids, the Orchard entred in:</l>
+               <l>Whoſe bounds were buskt and deckt with floures moſt faire,</l>
+               <l>And bordered braue with ornaments moſt rare:</l>
+               <l>Wherein ſhee thought her ſelfe to bath and byde,</l>
+               <l>A while vnſeene, till thus they her eſpyde,</l>
+               <l>Shee ſent her maids to bring her Balme and Ball,</l>
+               <l>For to anoynt her body therewithall,</l>
+               <l>Commanding them they ſhould the doore make faſt,</l>
+               <l>As they from her foorth of the Garden paſt,</l>
+               <l>Who did according, as ſhee them deſirde,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>utting the doore while they themſelues retirde:</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d went from thence in private, even as ſhee<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <pb facs="tcp:183762:20"/>But did the Elders not perceaue, for they</l>
+               <l>Were hid and quyet, in ſome corner lay<g ref="char:punc">▪</g>
+               </l>
+               <l>Who when theſe maids, were abſent as yee heare,</l>
+               <l>The Elders to <hi>Suſanna</hi> did appeare:</l>
+               <l>And ſaid, Behold the Garden doores you ſee,</l>
+               <l>Are ſhut, and wee are fnard in loue with thee,</l>
+               <l>Therefore conſent to lye with vs full ſoone,</l>
+               <l>Or elſe thy life and honour is vndone:</l>
+               <l>For if thou will not, but thou will deny,</l>
+               <l>Wee ſhall approue wee ſaw one with thee ly:</l>
+               <l>And that thou ſent thy maids away to chuſe,</l>
+               <l>A tyme alone, thy body to abuſe,</l>
+               <l>Thus chaſt <hi>Suſanna,</hi> ſighing ſaid alace,</l>
+               <l>On both the ſides I'm burthend in this place,</l>
+               <l>For it is death to grant their ill demands,</l>
+               <l>And to refuſe I cannot ſcape their hands:</l>
+               <l>Yet in this doubt, thus I reſolue to bee,</l>
+               <l>Kild rather, then an adultereſſe to die,</l>
+               <l>Thus then this chaſteſt, calde aloud, and loe,</l>
+               <l>Theſe Elders did, extend their voyce alſo,</l>
+               <l>And ranne in rage, and opned vp the doore,</l>
+               <l>To make the matter to appeare the more:</l>
+               <l>For when the ſolke, this purpoſe did perceaue,</l>
+               <l>They ruſht in haſte, and curiouſly did craue,</l>
+               <l>What was the cauſe, and why ſhee calde ſo hie,</l>
+               <l>Or of her griefe from whence the ground might bee:</l>
+               <l>The Elders then, thus their deviſe did ſhow,</l>
+               <l>Whereby they might <hi>Suſanna</hi> overthrow:</l>
+               <l>Which when the ſervants hearing were aſhamde,</l>
+               <l>And made <hi>Suſannas</hi> fame bee farre proclaimde,</l>
+               <l>And on the day enſuing as is ſaid,</l>
+               <l>When <hi>Ioachim</hi> a publick meating made,</l>
+               <l>Theſe Elders came, with minds miſchivouſly,</l>
+               <l>Diſpoſde for to perceiue <hi>Suſanna</hi> die:</l>
+               <l>And in the preſence of the people ſought,</l>
+               <l>That they might haue this chaſt <hi>Suſanna</hi> brought,</l>
+               <l>
+                  <hi>Helcias</hi> daughter as I vnderſtand,</l>
+               <l>
+                  <hi>Ioachims</hi> ſpouſe, a rich man in the land,</l>
+               <l>So ſhee compeared with her parents two,</l>
+               <l>Her children and her kinds-folke came alſo:</l>
+               <l>Thus was <hi>Suſanna</hi> wondrous faire to ſee,</l>
+               <l>Th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> could more beauteous bee<g ref="char:punc">▪</g>
+               </l>
+               <l>
+                  <pb facs="tcp:183762:21"/>Whom when ſhee ſtood before theſe Iudges tway,</l>
+               <l>They cauſd her caſt her cover quyte away:</l>
+               <l>For as her minde was maskt with woefull moane,</l>
+               <l>Her vnſtaind face, a vaile ſhee put vpon,</l>
+               <l>Which theſe two vnjuſt Iudges cauſde remoue,</l>
+               <l>With ſeeing<g ref="char:punc">▪</g> ſomewhat to content their loue:</l>
+               <l>Wherefore her friends, and all her kin alſo,</l>
+               <l>Waxt wondrous ſad, to ſee Suſanna ſo:</l>
+               <l>Theſe Iudges two ſtood vp in haſt indeede,</l>
+               <l>And laid their hands on her vnſpotted heed,</l>
+               <l>Who holding vp her face, calde to the Lord,</l>
+               <l>Iu whom ſhee truſted, hee would helpe afford,</l>
+               <l>The Elders then, ſaid this to her anone,</l>
+               <l>Into the Garden, as wee walkt alone:</l>
+               <l>Wee ſaw <hi>Suſanna,</hi> with her maidens two,</l>
+               <l>Come in, and then in haſte ſhee let them goe:</l>
+               <l>Made faſt the doores, and with a ſtranger lay,</l>
+               <l>Whom we perceavde in their adulterous play,</l>
+               <l>And ran moſt fiercely, aiming for to take</l>
+               <l>Them, as they were in their adulterous act:</l>
+               <l>But this young man was ſtrong by nature, ſo</l>
+               <l>That hee leapt foorth, and from our hands did goe:</l>
+               <l>And when wee askt this woman, who was hee,</l>
+               <l>Shee would not tell, and this wee teſtifie:</l>
+               <l>The aſſemblie then, theſe judges having heard,</l>
+               <l>Believing them, <hi>Suſanna</hi> ſtraight debard,</l>
+               <l>And did command, that ſhee the death ſhould die,</l>
+               <l>For her reward, of vnchaſt villanie:</l>
+               <l>Then did anone this innocent out call,</l>
+               <l>To God for helpe, whoſe power is over all,</l>
+               <l>And ſaid, O LORD, thou liues and all things know,</l>
+               <l>Therefore alace my innocencie ſhow:</l>
+               <l>And ſince they falſely now haue mee accuſde,</l>
+               <l>Becauſe by them I would not bee abuſde,</l>
+               <l>And ſeeing that of force I needes muſt die,</l>
+               <l>Lord, now proclaime my vpright chaſtitie,</l>
+               <l>And let this malice which they now haue wrought,</l>
+               <l>Soone vnto knowledge<g ref="char:punc">▪</g> by thy power bee brought:</l>
+               <l>Thus then behold, this jugde great over all,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> her requeſt, and ſet her free from thrall:</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> when ſhee was to dying paine expoſde,</l>
+               <l>
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> for faith ſhee fully was rei<gap reason="illegible" resp="#APEX" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>
+               </l>
+               <l>
+                  <pb facs="tcp:183762:21"/>For as ſhee prayde, a ſpirit did appeare,</l>
+               <l>Namde <hi>Daniel,</hi> who commanded them reteare.</l>
+               <l>And with a voyce extended wondrous hie,</l>
+               <l>Did ſay, I alwayes from this blood am free:</l>
+               <l>Then all the people as amazde did ſtand,</l>
+               <l>And did the meaning of theſe words demand,</l>
+               <l>Who ſtood, as if his power could them compell,</l>
+               <l>And ſaid, O fooliſh ſonnes of Iſrael,</l>
+               <l>Who would without examination ſo,</l>
+               <l>An innocent thus to the death let goe:</l>
+               <l>Convert your courſe, to judgement goe and heare,</l>
+               <l>And you ſhall finde, they did falſe witneſſe beare,</l>
+               <l>Againſt <hi>Suſanna,</hi> who is truely chaſt,</l>
+               <l>Vpon the which the people turnde in haſte,</l>
+               <l>To whom the Elders ſaid, ſit downe heer bye,</l>
+               <l>And ſhew vs what thou heereof more can try:</l>
+               <l>And ſince that God hath ſent thee heere to bee</l>
+               <l>A judge, come let vs of thy judgement ſee,</l>
+               <l>Then <hi>Daniel</hi> cauſde theſe two bee ſet aſunder,</l>
+               <l>So that his wit hereby procurde a wonder:</l>
+               <l>For hee did call the one, and to him ſay,</l>
+               <l>O thou whoſe haires are waxed old and gray,</l>
+               <l>And thou whoſe yeares, haue now attaind ſuch hight,</l>
+               <l>Thy forepaſt faults, ſhall now appeare in ſight:</l>
+               <l>For thou falſe judgement hath pronuncde, and ſo</l>
+               <l>Condemnde the juſt, and let the guiltie goe,</l>
+               <l>Albeit the Lord ſayes, that thou ſhalt theſe tway,</l>
+               <l>The righteous and the innocent not ſlay:</l>
+               <l>Yet if thou ſaw them, tell mee by what tree,</l>
+               <l>Thou ſaw theſe two together company:</l>
+               <l>Who anſwerd, I a Lentick tree did ſpy,</l>
+               <l>Beneath the which I ſaw theſe perſons ly:</l>
+               <l>Then did the Prophet ſay, thou lyed and loe,</l>
+               <l>God hath ordaind that thou bee cut in two:</l>
+               <l>So that ſhall bee, of thy intent the hyre,</l>
+               <l>Since thou againſt <hi>Suſanna</hi> did conſpyre:</l>
+               <l>And hee was placde a part. where to remaine,</l>
+               <l>Even till the other was cald in againe:</l>
+               <l>Who when the prophet, ſaw him there to ſtand,</l>
+               <l>Hee then of him this queſtion did demand,</l>
+               <l>
+                  <pb facs="tcp:183762:22"/>And ſaid, O thou <hi>Chanans</hi> ſinfull ſeede,</l>
+               <l>And not of <hi>Iuda,</hi> as appeares indeede,</l>
+               <l>Chaſt beautie hath allured thee to ly,</l>
+               <l>And luſt thine heart perverted hath I ſee,</l>
+               <l>For thus yee dealt with Iſraell and did vſe,</l>
+               <l>Them by conſtraint, for they durſt not refuſe,</l>
+               <l>But loe the daughters of juſt <hi>Iuda</hi> they,</l>
+               <l>Could neither would your wickedneſſe obey:</l>
+               <l>Now therefore tell, in what place did thou ſee</l>
+               <l>Them ly, he ſaid, beneath an Oaken tree,</l>
+               <l>Then <hi>Daniel</hi> anſwered, ſaying, Thou haſt lyed,</l>
+               <l>As I perceiue, againſt thine owne head,</l>
+               <l>And loe Gods angell doth a ſword convoy,</l>
+               <l>By juſt deſert, thee quyte for to deſtroy,</l>
+               <l>Vpon the which the people praiſde with truſt,</l>
+               <l>God for his goodnes, who preſerues the juſt:</l>
+               <l>And then aroſe, againſt theſe elders two<g ref="char:punc">▪</g>
+               </l>
+               <l>Who by themſelues were thus convicted ſo,</l>
+               <l>And did conforme, to their owne law ordaine,</l>
+               <l>They ſhould bee pind, with their appoynted paine,</l>
+               <l>That thereby might the innocent bee ſavde,</l>
+               <l>The guiltie puniſht, and their plots deceavde:</l>
+               <l>Therefore <hi>Chelchias,</hi> and his wife did ſing,</l>
+               <l>Praiſe vnto God, their great and glorious King:</l>
+               <l>And <hi>Ioachim</hi> her Husband ſang that day,</l>
+               <l>Glore to Hoſanna, for <hi>Suſanna</hi> ay:</l>
+               <l>And all their kinred, as wee plainely ſee,</l>
+               <l>Sang endleſſe honour, to the Trinitie:</l>
+               <l>Even ſo doe wee, likewiſe let all who moue,</l>
+               <l>Vnto this God all glorie, power, approue:</l>
+               <l>Who doth condemne the guiltie, and doth raiſe,</l>
+               <l>The innocent, to render alwayes praiſe:</l>
+               <l>To whom I meane this Eſſence one in three,</l>
+               <l>Let men and Angels ſing continually.</l>
+            </lg>
+            <closer>Amen.</closer>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:22"/>
+            <head>To ALEXANDER SETONE of <hi>Petmedden.</hi>
+            </head>
+            <div type="anagram">
+               <l>Anag. <hi>One ex'eland reſt.</hi>
+               </l>
+               <lg>
+                  <l>Verſ. <hi>One ex'eland reſt,</hi> for ſuch as needes reliefe,</l>
+                  <l>And who to all, yeelds comfort in their griefe,</l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <head>Acrostick.</head>
+               <lg>
+                  <l>
+                     <hi>A</hi>s in the volum, heereof which you hold,</l>
+                  <l>
+                     <hi>L</hi>yes reverend Rulers vertues, manyfold:</l>
+                  <l>
+                     <hi>E</hi>ven ſo my Muſe thinkes I amiſſe commit<g ref="char:punc">▪</g>
+                  </l>
+                  <l>
+                     <hi>X</hi>cept I ſhew thy praiſes vnto it:</l>
+                  <l>
+                     <hi>A</hi>nd that thy ſplendor, may more bright appeare,</l>
+                  <l>
+                     <hi>N</hi>ow with theſe worthies, thus inrolled heere:</l>
+                  <l>
+                     <hi>D</hi>oubtleſſe as many Diamonds decore,</l>
+                  <l>
+                     <hi>E</hi>namled rich, where they are ſet in ſtore</l>
+                  <l>
+                     <hi>R</hi>are jewels. Even ſo theſe foreſaids flow in fame,</l>
+                  <l>
+                     <hi>S</hi>o much the more ſince thou art joynde with them,</l>
+                  <l>
+                     <hi>E</hi>ven thou whoſe ſtem, hath intertaind ſuch worth,</l>
+                  <l>
+                     <hi>T</hi>hat I in lynes cannot their praiſe ſet foorth,</l>
+                  <l>
+                     <hi>O</hi>nely I ſay, thy parents pompes expreſt,</l>
+                  <l>
+                     <hi>N</hi>o leſſe in thee then actions manifeſt,</l>
+               </lg>
+               <lg>
+                  <l>Thus to thy praiſe then, I ſubjoyne theſe three,</l>
+                  <l>Of antient ſtocke, worth, ſelfe nobilitie.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <head>To D. ARTHVRE IONSTOVNE,</head>
+            <div type="anagram">
+               <l>Anag. <hi>An vert'ous herti on.</hi>
+               </l>
+               <lg>
+                  <l>Verſ. <hi>An vert'ous herti on,</hi> whom grace decore,</l>
+                  <l>With gifts of airt, and naturall gifts in ſtore.</l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <head>Sonnet Acroſtick.</head>
+               <lg>
+                  <l>
+                     <hi>A</hi>s I haue found by knowledge of my Muſe,</l>
+                  <l>
+                     <hi>R</hi>emembring on thy farre renowned name)</l>
+                  <l>
+                     <hi>T</hi>hough all the antients worth I doe pervſe,</l>
+                  <l>
+                     <hi>H</hi>eere I approue thy praiſe ſurpaſſes them:</l>
+                  <l>
+                     <hi>V</hi>hat ſhall I ſay then, of thy endleſſe ſame<g ref="char:punc">▪</g>
+                  </l>
+                  <l>
+                     <hi>R</hi>ed in the rareneſſe of thy learned lynes,</l>
+                  <l>
+                     <hi>I</hi> Into whoſe life and labours is no blame,</l>
+                  <l>
+                     <hi>O</hi>r who for worth paſſe Poets praiſt ingynes,</l>
+                  <l>
+                     <hi>N</hi>o <hi>
+                        <g ref="char:V">Ʋ</g>irgill, Galen, Cicero,</hi> or ſuch</l>
+                  <l>
+                     <hi>S</hi>hall bee extold more worthily I vow,</l>
+                  <l>
+                     <hi>T</hi>hey in their times exceld, but not ſo much,</l>
+                  <l>
+                     <hi>O</hi>f worth, in ſundry ſciences as thou,</l>
+                  <l>
+                     <hi>V</hi>hence I conclude, though theſe in vſe bee had,</l>
+                  <l>
+                     <hi>N</hi>o leſſe ſhall thou as worthie now bee red,</l>
+               </lg>
+            </div>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:183762:23"/>
+            <head>THE HISTORIE OF BELL, AND DRAGON. <hi>OR,</hi> The ſcorne of Idols.</head>
+            <lg>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">A</seg>STYAGES,</hi> the Babylonian King</l>
+               <l>Beeing dead: the Perſian <hi>Cyrus</hi> fell to reigne:</l>
+               <l>And <hi>Daniel</hi> who in propheſie not err'd</l>
+               <l>The King for worth ov'r all his friends preferrde.</l>
+               <l>Theſe Babylonians likewiſe did invent</l>
+               <l>An Idole, whom they ſervde with one conſent:</l>
+               <l>Whoſe name was Bell: A breathleſſe brazen beaſt,</l>
+               <l>Whom for their god they did ſincerely feaſt,</l>
+               <l>With fineſt flowre, with flockes of ſheepe and wine,</l>
+               <l>And thought this ſervice ſacrifice divine:</l>
+               <l>Believing blindly what they ſet before,</l>
+               <l>This counterfeit it did the ſame devore:</l>
+               <l>O madde bereavers of the divine right!</l>
+               <l>Who durſt deviſe ſuch errours in his ſight.</l>
+               <l>As to delude the peoples minds ſo much,</l>
+               <l>And make them think <hi>Iehovahs</hi> groſſenes ſuch,</l>
+               <l>As could bee gript, or that his Godhead might</l>
+               <l>Bee ſeene by men, who had but earthly ſight:</l>
+               <l>And they who then were callde for Kings to bee,</l>
+               <l>Should thus conſent to ſuch Idolatrie.</l>
+               <l>For they this idole did adore each day,</l>
+               <l>Although in ſubſtance nought but braſſe and clay:</l>
+               <l>As likewiſe then, this <hi>Cyrus</hi> Perſian King</l>
+               <l>With <hi>Daniel</hi> dealt moſt earneſtly to bring</l>
+               <l>To <hi>Bell,</hi> the beaſt that worſhip which hee ought</l>
+               <l>To give to God: but hee obeyde him nought,</l>
+               <l>But did reply, and publickly profeſſe,</l>
+               <l>Hee would not worſhip gods of carved braſſe,</l>
+               <l>But that eternall God, whoſe power hee knowes,</l>
+               <l>Such ſenſeleſſe idoles alwayes overthrowes,</l>
+               <l>And who hath ſtrength their pride for to ſuppreſſe,</l>
+               <l>Who through ſuch boldneſſe doth his will tranſgreſſe,</l>
+               <l>
+                  <pb facs="tcp:183762:23"/>Then ſaid the King, whoſe blindneſſe was not ſmall,</l>
+               <l>Thinks thou not <hi>Bell</hi> a living god at all?</l>
+               <l>And ſeeſt thou not what hee devores each day</l>
+               <l>For to preſerve his god-head from decay,</l>
+               <l>But then the Prophet preſently did ſmyle,</l>
+               <l>And ſaid, O King, they doe thee much beguile,</l>
+               <l>For this is nought but mixture made with hands,</l>
+               <l>Which cannot eate, nor anſwere thy demands,</l>
+               <l>Which made the King to bee offended ſo,</l>
+               <l>That hee did vrge the Prieſts to let him know,</l>
+               <l>Whom it ſhould bee did theſe expenſes ſpend,</l>
+               <l>Or els by death hee ſhould abridge their end:</l>
+               <l>But on the contraire, if you can make cleare,</l>
+               <l>That <hi>Bell</hi> deſtroyes what is preſented heere,</l>
+               <l>Then doubtleſſe <hi>Daniel</hi> ſhall bee made to die,</l>
+               <l>For hee hath vttred blaſphemie to me:</l>
+               <l>Vnto the which the Prophet thought it right,</l>
+               <l>To have this doubt reſolvde in <hi>Cyrus</hi> ſight.</l>
+               <l>Now all the Prieſts of <hi>Bell</hi> were knowen then,</l>
+               <l>To bee of number ſeven times ſurely ten</l>
+               <l>Without their wives, which them increſt the more,</l>
+               <l>By birth of bairnes, their boldneſſe to deplore:</l>
+               <l>Then went the Perſian King with <hi>Daniel</hi> hence,</l>
+               <l>And callde the Prieſts for to prepare defence,</l>
+               <l>Into the Temple for their idole <hi>Bell,</hi>
+               </l>
+               <l>And thought thereby the Prophet to compell</l>
+               <l>To ſerve their god: but hee then did deface</l>
+               <l>Their faigned follies, by their <hi>Bells</hi> diſgrace.</l>
+               <l>For loe the Prieſts did boldly ſay behold,</l>
+               <l>Wee will depart that you bee not controld,</l>
+               <l>Therefore your meate ſee that yee ſet before</l>
+               <l>Our <hi>Bell,</hi> whoſe bellie can the ſame devore:</l>
+               <l>Aud let the veſhells full of wine bee fillde,</l>
+               <l>The doore ſhutfaſt, and with your ſignet ſealde,</l>
+               <l>And when to morrow thou ſhall come to ſee</l>
+               <l>The victualls thou ſhalt find devored bee</l>
+               <l>By <hi>Bell,</hi> or els the burthen wee ſhall beare</l>
+               <l>Of death, or <hi>Daniel</hi> who bees found a lyer<g ref="char:punc">▪</g>
+               </l>
+               <l>For with themſelves they thought they were ſecure,</l>
+               <l>Becauſe they had an entreſſe in the floore,</l>
+               <l>
+                  <pb facs="tcp:183762:24" rendition="simple:additions"/>Wherein they came by ſecreet in the night,</l>
+               <l>Theſe things removd from out the peoples ſight.</l>
+               <l>So when they were foorth of the Temple gone,</l>
+               <l>The King cauſde ſet theſe meats by <hi>Bell</hi> alone.</l>
+               <l>Young <hi>Daniel</hi> then whoſe knowledg was profound,</l>
+               <l>Did wiſely cauſe ſtrow aſhes on the ground,</l>
+               <l>Before the King, who cauſde the doore be lockt,</l>
+               <l>Seald with his ſigne, that <hi>Bell</hi> ſhould not bee mockt,</l>
+               <l>For they believde their God whom they did ſerve,</l>
+               <l>Did eate ſo much, that hee could never ſterve.</l>
+               <l>But as the one was falſe, whereas they thought,</l>
+               <l>That he devorde what they him dayly brought,</l>
+               <l>So was the laſt, not much to bee admirde,</l>
+               <l>He could not ſtarve becauſe hee never ſteirde:</l>
+               <l>Yet hee for ſtrength of trueth I muſt confeſſe,</l>
+               <l>Much meate might hold, his bellie was of braſſe,</l>
+               <l>But he could neither ſmell, nor ſee, nor eate,</l>
+               <l>So that the Prieſts devored all the meate.</l>
+               <l>O helliſh theeves! Idolaters indeede,</l>
+               <l>Who durſt deviſe to ſay our Maker feede</l>
+               <l>As doth a beaſt, or any earthly thing:</l>
+               <l>But lives in heaven, inviſible a King:</l>
+               <l>Or for their luſt to intertaine their lives,</l>
+               <l>Wold loſe their ſoules, their childrens and their wives.</l>
+               <l>O beaſts not men! O belly-gods prophane,</l>
+               <l>For <hi>Bell,</hi> in hell yee alwayes ſhall remaine:</l>
+               <l>And then that Idole whom yee ſervde in braſſe,</l>
+               <l>Shall bee a meanes to make your woes increſſe,</l>
+               <l>For in the morning when the King aroſe,</l>
+               <l>Hee ſtreight with <hi>Daniel</hi> to the Temple goes,</l>
+               <l>And did inquyre this Prophet, if the ſeale</l>
+               <l>Which he had ſignet yet remained heale,</l>
+               <l>Who anſwerde truely as hee ſaw it hing,</l>
+               <l>And ſaid, as yet it whole remaines O King,</l>
+               <l>So then the King cauſde make a patent doore,</l>
+               <l>And entring in perceivde the meate no more,</l>
+               <l>Vpon the which hee boldly blazed foorth,</l>
+               <l>How great is <hi>Bell?</hi> a god of wondrous worth.</l>
+               <l>Who hath devorde in this one night, more meate</l>
+               <l>Than could an hundreth men and children eate.</l>
+               <l>
+                  <pb facs="tcp:183762:24"/>Then <hi>Daniel</hi> laughing, did the King demand,</l>
+               <l>Moſt reuerently, hee would bee pleaſde to ſtand,</l>
+               <l>And not goe in till hee conſidered right</l>
+               <l>From whence theſe foot-ſteps came vpon the night.</l>
+               <l>The King beholding vively in his face,</l>
+               <l>There had beene ſundrie walking in that place,</l>
+               <l>Hee waxed wroth, and did the Prieſts conveene,</l>
+               <l>Who did confeſſe, they there themſelves had beene.</l>
+               <l>Revealed then their villanie at laſt,</l>
+               <l>And ſhewde the doores where they in private paſt:</l>
+               <l>Therefore King <hi>Cyrus</hi> then confounded all,</l>
+               <l>The Prieſts, their wives, their children great and ſmall,</l>
+               <l>And vnto <hi>Daniel</hi> rendred <hi>Bel</hi> to bee</l>
+               <l>By him conſumde, the Storie teſtifie.</l>
+               <l>As likewiſe, then there did a Dragon ſtand,</l>
+               <l>Whom they did worſhip all throughout the land,</l>
+               <l>Then did the King this vnto <hi>Daniel</hi> ſay</l>
+               <l>Thou can not vowe that this is braſſe or clay,</l>
+               <l>And though thou movde our idole <hi>Bel</hi> bee broken,</l>
+               <l>Our Dragon feare, let no blaſpheme bee ſpoken.</l>
+               <l>Wee doe not care although that <hi>Bell</hi> bee gone,</l>
+               <l>Wee'le ſerve the <hi>Dragon</hi> for our god alone,</l>
+               <l>For this thou ſeeſt hee lets no meates remaine,</l>
+               <l>But eats vp all, and rendreth nought againe:</l>
+               <l>To prove his power muſt be a gods indeed,</l>
+               <l>Since hee ſo ſtrangely everie day doth feede,</l>
+               <l>Therefore thy faith reſolve for to renue,</l>
+               <l>And to our Dragon render homage due,</l>
+               <l>But divine <hi>Daniel</hi> anſwered the King,</l>
+               <l>Ile ſerve my God, and not thy earthly thing,</l>
+               <l>VVhich if thou will permit mee vncontrold,</l>
+               <l>Thou ſhall the Dragons weakneſſe ſoone behold:</l>
+               <l>For I not vſing weapon, fword nor ſtaffe,</l>
+               <l>Shall ſlay the Dragon as he were but chaffe.</l>
+               <l>Vpon the which, the King did ſay, behold</l>
+               <l>I giue thee leave, doe if thou dare, be bold.</l>
+               <l>Then <hi>Daniel</hi> tooke materialls not to fight,</l>
+               <l>And thereof made ſuch things as hee had hight,</l>
+               <l>Such as was pitch and fatt and haire all three,</l>
+               <l>Made lumps thereof, his skill to teſtifie.</l>
+               <l>
+                  <pb facs="tcp:183762:25"/>And gave the Dragon wherewith it to ſlay,</l>
+               <l>Which did in ſunder burſt and fall in tway,</l>
+               <l>Then when the Prophet had theſe wonders wrought,</l>
+               <l>Vpon their gods the Babylonians ſought,</l>
+               <l>By publick convent to make <hi>Cyrus</hi> rew,</l>
+               <l>Becauſe they ſaw hee was become a lew:</l>
+               <l>For hee, ſaid they, our great God <hi>Bel</hi> did firſt</l>
+               <l>Confound, and then our Dragon made to burſt.</l>
+               <l>Hee hath our Prieſts likewiſe with death oppreſt,</l>
+               <l>So that our ſelves hencefoorth ſhall find no reſt:</l>
+               <l>Vpon the which, theſe wicked people ſaid,</l>
+               <l>To vs in haſte let <hi>Daniel</hi> ſoone bee had,</l>
+               <l>Or els but doubt, wee will deſtroy by death,</l>
+               <l>Thee and thine houſe, ſince thou haſt changd thy faith,</l>
+               <l>So when the King perceivde they vrgde him ſo,</l>
+               <l>Hee was conſtrainde the Prophet to let goe:</l>
+               <l>VVhom when they did receive, they ſet him then</l>
+               <l>Sixe dayes and more within the Lyons den,</l>
+               <l>Into the which by common courſe remaind,</l>
+               <l>Seven Lyons, whom by hunger they conſtraind</l>
+               <l>To roare and rage, their prey for to perceive,</l>
+               <l>VVhereon ſome helpe for hunger they might have,</l>
+               <l>And to the end that when they <hi>Daniel</hi> ſaw,</l>
+               <l>For lack of food they ſhould him overthrow.</l>
+               <l>Yet there remainde one <hi>Abacuk</hi> by name,</l>
+               <l>In Iurie who a Prophet was by fame,</l>
+               <l>VVho had made ſundrie veſſells full of meat,</l>
+               <l>Even that the reapers of the ſame might eate,</l>
+               <l>To whom the Angell of the Lord did call,</l>
+               <l>Take theſe to <hi>Daniel</hi> to remead his thrall;</l>
+               <l>For they haue caſt him in a den of dreed,</l>
+               <l>VVhere Lyons live, not looking for remead,</l>
+               <l>Then <hi>Abacuk</hi> ſaid to the Lord anone,</l>
+               <l>I never knew nor ſaw I Babylon,</l>
+               <l>Nor know I ſurely where that den doth ly,</l>
+               <l>VVherefore of force thy ſute I muſt deny,</l>
+               <l>But then the Lord who hath a kindly care,</l>
+               <l>Of all his ſervants throwen in diſpare,</l>
+               <l>Tooke <hi>Abacuk</hi> and bare him by the crowne,</l>
+               <l>VVhere <hi>Daniel</hi> lay, and thereby ſet him downe.</l>
+               <l>
+                  <pb facs="tcp:183762:25"/>Then <hi>Abacuk</hi> did thus his voyce extend,</l>
+               <l>Come take ſuch meate, as thee the Lord hath ſend,</l>
+               <l>Vnto the which did <hi>Daniel</hi> anſwere make,</l>
+               <l>O God, who never doth thy Saints forſake,</l>
+               <l>Nor never failes them who doe truſt in thee,</l>
+               <l>A ſpeciall care thou haſt had towards mee,</l>
+               <l>So hee aroſe, his hunger ſtainchd in haſte,</l>
+               <l>And <hi>Abacuk</hi> by God at home was plac't.</l>
+               <l>VVho made his Angell him for to tranſport,</l>
+               <l>So that hee thought his journey was but ſhort:</l>
+               <l>Then not long hence, the King came to bewaile,</l>
+               <l>VVith grievous mone the loſſe of <hi>Daniel,</hi>
+               </l>
+               <l>VVhom hee perceivde amongſt the Lyons ſtand,</l>
+               <l>So that he ſeemd their force for to command.</l>
+               <l>Then calld King <hi>Cyrus</hi> with a voice moſt hie,</l>
+               <l>Thy God O <hi>Daniel,</hi> great of power muſt bee.</l>
+               <l>And I perceive on earth there is not one.</l>
+               <l>But even that God, whom thou doſt ſerve alone.</l>
+               <l>VVherefore hee cauſde draw him out of the den,</l>
+               <l>And therein threw all theſe malitious men,</l>
+               <l>VVho ſought to bee the cauſe of his diſgrace,</l>
+               <l>And they were rent into a moments ſpace.</l>
+               <l>The vſe therefore which heere of wee ſhould make,</l>
+               <l>Should move vs all ſuch idoles to forſake:</l>
+               <l>VVhich are nought els but beaſts of equall worth</l>
+               <l>Vnto themſelves who ſeekes to ſet them foorth.</l>
+               <l>For they their <hi>Bel-god</hi> dayly gaue ſuch meat,</l>
+               <l>As ſervde at large theſe belly-gods to eat,</l>
+               <l>VVho did not care, if they their ſtomacks ſerved,</l>
+               <l>Although their ſoules for lack of foode even ſterved</l>
+               <l>Let vs therefore who walke in perfite light,</l>
+               <l>Goe on with courage, Chriſt hath clenſde our ſight:</l>
+               <l>And let vs not ſuch fictions falſe approve,</l>
+               <l>But only God whoſe eſſence is aboue,</l>
+               <l>For you may ſee their ignorance ſo great,</l>
+               <l>That they to ſerve theſe idoles tooke delyte,</l>
+               <l>But when our God Iehovah once they knew,</l>
+               <l>They then began their wickedneſſe to rew,</l>
+               <l>And did lament that they had runne ſo long,</l>
+               <l>In ſinne as ſlaves, ſtill wandring alwayes wrong.</l>
+               <l>
+                  <pb facs="tcp:183762:26"/>And ye may ſee what vengeance they receivde,</l>
+               <l>For their reward who had them long deceivde,</l>
+               <l>For they were rent with Lyons in their rages,</l>
+               <l>VVhich ſhall bee red to all ſucceeding ages.</l>
+               <l>In recompence of their idolatrie,</l>
+               <l>Therefore to vs let this example bee,</l>
+               <l>That wee bee not with doctrine falſe deluded,</l>
+               <l>VVhich may procure wee bee from heaven ſecluded.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:26"/>
+            <head>To THOMAS COLENSONE of <hi>Auchlownes,</hi>
+            </head>
+            <div type="anagram">
+               <l>Anag. 1. <hi>Lo, I canthol no ſhame.</hi>
+               </l>
+               <l>2. <hi>Set on hol'e comlines.</hi>
+               </l>
+               <lg>
+                  <l>Verſe Thy name I ſee doth thus expreſſe, <hi>Lo I canthol no ſhame</hi>
+                  </l>
+                  <l>Wherefore, <hi>in hol'e comlines,</hi> thou'le brooke a diademe</l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <head>Acrostick.</head>
+               <lg>
+                  <l>
+                     <hi>T</hi>hough <hi>Scipio major,</hi> ſtill was I confeſſe,</l>
+                  <l>
+                     <hi>H</hi>eld by the Romans rudder of their ſtate</l>
+                  <l>
+                     <hi>O</hi>f yeares but young, to whom did acquieſce</l>
+                  <l>
+                     <hi>M</hi>oſt mightie trowpes, as antient tymes relate,</l>
+                  <l>
+                     <hi>A</hi> man whoſe valour, actions force and ſtrength,</l>
+                  <l>
+                     <hi>S</hi>ubdude, o'rethrew, great <hi>Haniball</hi> but doubt,</l>
+                  <l>
+                     <hi>C</hi>ontrold, bare downe, as alſo who at length,</l>
+                  <l>
+                     <hi>O'</hi>recame and wan all <hi>Africa</hi> throughout:</l>
+                  <l>
+                     <hi>L</hi>oe, hee who was both learned, wiſe and graue,</l>
+                  <l>
+                     <hi>L</hi>ykewiſe but whom the Romans could doe nought:</l>
+                  <l>
+                     <hi>I</hi>nto whoſe worth, they knowledge did receaue,</l>
+                  <l>
+                     <hi>N</hi>o leſſe in word, then many vertues wrought,</l>
+                  <l>
+                     <hi>S</hi>hall I therefore, ſince heereof were but tway,</l>
+                  <l>
+                     <hi>O'</hi>re paſſe thy part, who merits all their praiſe,</l>
+                  <l>
+                     <hi>N</hi>o <hi>I</hi> will not but ſomething heere will ſay,</l>
+               </lg>
+               <lg>
+                  <l>Since thou'rt admeerd for wiſedome in thy dayes,</l>
+                  <l>And ſince their praiſe doth from thy name flow foorth,</l>
+                  <l>Ile ceaſe heerefra, and hence foorth ſhew thy worth,</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>Ad Eundem.</head>
+               <lg>
+                  <l>To thee I come as one of worthieſt chuſe,</l>
+                  <l>And for this purpoſe, doth exalt my Muſe,</l>
+                  <l>To aide my aime, to dignifie thy due,</l>
+                  <l>And to thy praiſe, to pen ſome lynes moſt true.</l>
+                  <l>Since where to juſtlye, can I equall bee,</l>
+                  <l>But to ſuch one wherein all worth wee ſee,</l>
+                  <l>Belovde by all, and who in all things can,</l>
+                  <l>Proue prudent, pregnant, and a righteous man,</l>
+                  <l>And like as <hi>Scipio,</hi> did adopt to bee,</l>
+                  <l>Braue <hi>Scipio</hi> minor, for his ſonne you ſee,</l>
+                  <l>So thou ſucceeds vnto thy famous father,</l>
+                  <l>For worth, or elſe vnto thoſe <hi>Scipios</hi> rather,</l>
+                  <l>And as the Romans but their aide did nought,</l>
+                  <l>So where thou liues thy aide is alwayes ſought:</l>
+                  <l>Wherefore of force <hi>I</hi> this of thee muſt ſay,</l>
+                  <l>Thou ſhall bee praiſde beyond all date or day,</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:27"/>
+            <head>To M. ALEXANDER IAFFREY.</head>
+            <div type="anagram">
+               <l>Anag. <hi>Al ſin is fardar frae me, ay,</hi>
+               </l>
+               <lg>
+                  <l>Verſ. <hi>Al ſin is farder frae mee ay,</hi> then thoſe,</l>
+                  <l>Who in religions outward ſho rejoyce.</l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <head>Acroſtick.</head>
+               <lg>
+                  <l>
+                     <hi>A</hi> midſt the number of theſe worthies heere,</l>
+                  <l>
+                     <hi>L</hi>oe, I muſt make thy worthineſſe appeare,</l>
+                  <l>
+                     <hi>E</hi>ven in theſe true encomiums thus ſet downe,</l>
+                  <l>
+                     <hi>X</hi> tolling truely this much honoured towne:</l>
+                  <l>
+                     <hi>A</hi>nd to expreſſe thy pregnant wit and skill,</l>
+                  <l>
+                     <hi>N</hi>o leſſe in worth then ruling thereintill:</l>
+                  <l>
+                     <hi>D</hi>emanding of my Muſe how I ſhould praiſe,</l>
+                  <l>
+                     <hi>E</hi>evn thy admeered vertues in thy dayes,</l>
+                  <l>
+                     <hi>R</hi>eſt not ſaid ſhee over all for to ſet foorth,</l>
+                  <l>
+                     <hi>I</hi>n verſe ſuch words, as may advance his worth,</l>
+                  <l>
+                     <hi>A</hi> man whoſe minde ſtill meditates on grace,</l>
+                  <l>
+                     <hi>F</hi>ull kyndly aimes at equitie and peace,</l>
+                  <l>
+                     <hi>F</hi>aith is the ground, whereon thy travels ſtand,</l>
+                  <l>
+                     <hi>R</hi>enownd therefore thou ſhall bee in this land,</l>
+                  <l>
+                     <hi>E</hi>ſtraingde from vyce, whence well <hi>I</hi> may alledge,</l>
+                  <l>
+                     <hi>Y</hi> at thou appeares a paterne in this age.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <head>To ANDREW<g ref="char:punc">▪</g> MELDRVME,</head>
+            <div type="anagram">
+               <l>Anag. <hi>Ver'e demure and m'ld.</hi>
+               </l>
+               <lg>
+                  <l>Verſ. Thy name declares thee, both <hi>demur and m'ld,</hi>
+                  </l>
+                  <l>Lykewiſe thy fame proclaimes thee vndefilde.</l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <head>Sonnet Acrostick.</head>
+               <lg>
+                  <l>
+                     <hi>A</hi>s <hi>Cato major,</hi> is renowned yet,</l>
+                  <l>
+                     <hi>N</hi>o leſſe in wiſedome, then in actions fit,</l>
+                  <l>
+                     <hi>D</hi>eclaird hee is, likewiſe for publick skill,</l>
+                  <l>
+                     <hi>R</hi>are, and recorded wondrous thereintill:</l>
+                  <l>
+                     <hi>E</hi>ven in governiug Common-wealths, and lo,</l>
+                  <l>
+                     <hi>W</hi>iſe in the ruling of his houſe alſo:</l>
+                  <l>
+                     <hi>M</hi>uch volums whereof hee hath pend to bee,</l>
+                  <l>
+                     <hi>E</hi>ternall proofes, to all poſteritie:</l>
+                  <l>
+                     <hi>L</hi>ykewiſe thy worth of his containes a view,</l>
+                  <l>
+                     <hi>D</hi>ecord no leſſe with vertues rare and true,</l>
+                  <l>
+                     <hi>R</hi>enownd in generall, for thy wayes but hate,</l>
+                  <l>
+                     <hi>V</hi>iſe alſo in governing thy eſtate,</l>
+                  <l>
+                     <hi>M</hi>oſt duely therefore may I change the fame,</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:27"/>
+            <head>GEORGE IOANSTONS</head>
+            <div type="anagram">
+               <l>Anag. <hi>An gorgious ſtone.</hi>
+               </l>
+               <lg>
+                  <l>Verſ. <hi>Ane gorgious ſtone,</hi> which ſtone is ſet in grace,</l>
+                  <l>And in whoſe heart for error is no place.</l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <head>Acroſtick.</head>
+               <lg>
+                  <l>
+                     <hi>G</hi>iue ſuch <hi>ane gorgeous ſtone</hi> bee ſet in grace,</l>
+                  <l>
+                     <hi>E</hi>verlaſting glorie ſhall decore his face:</l>
+                  <l>
+                     <hi>O</hi>r if this place wherein this ſtone doth ſtand,</l>
+                  <l>
+                     <hi>R</hi>ecord the worth which doth this ſtone command:</l>
+                  <l>
+                     <hi>G</hi>reat ſhall that praiſe which heereon ſhall bee told,</l>
+                  <l>
+                     <hi>E</hi>ven one whoſe ſplendor ſhall all eyes behold,</l>
+                  <l>
+                     <hi>I</hi>nto whoſe heart or inward parts appeare,</l>
+                  <l>
+                     <hi>O</hi>f all the ſtones on earth, <hi>a ſtone</hi> but peere:</l>
+                  <l>
+                     <hi>A</hi>nd if that men would aske mee of this <hi>ſtone,</hi>
+                  </l>
+                  <l>
+                     <hi>N</hi>o doubt but I would ſend to thee anone:</l>
+                  <l>
+                     <hi>S</hi>uch glorious <hi>Ioan stone</hi> who doth glance moſt rare,</l>
+                  <l>
+                     <hi>T</hi>hrough <hi>Bon-acord</hi> while <hi>gorgeous George</hi> is there,</l>
+                  <l>
+                     <hi>O</hi>f due this <hi>ſtone</hi> deſerueth much renowne,</l>
+                  <l>
+                     <hi>V</hi>ith ſtones of ſtate, or rather ſtately crowne,</l>
+                  <l>
+                     <hi>N</hi>o more then can this <hi>ſtone</hi> bee hence expreſt,</l>
+                  <l>
+                     <hi>S</hi>ince that this ſtone <hi>a ſtone</hi> of ſtaits confeſt,</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <head>To GEORGE MORISONNE.</head>
+            <div type="anagram">
+               <l>Anag. <hi>None moir gorgeos.</hi>
+               </l>
+               <lg>
+                  <l>Ver. <hi>None moir gorgeos,</hi> whoſe worth ſhall ſhine in glore</l>
+                  <l>So ſayes thy name, firſt, then ſayes, <hi>Sin no more.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="acrostic">
+               <lg>
+                  <l>
+                     <hi>G</hi>iue theſe two vertues merits to bee praiſde,</l>
+                  <l>
+                     <hi>E</hi>ternally theſe two in thee are raiſde,</l>
+                  <l>
+                     <hi>O</hi> fall in grace, <hi>moir gorgeos none</hi> then thou,</l>
+                  <l>
+                     <hi>R</hi>enownde for outward gorgeouſneſſe as due,</l>
+                  <l>
+                     <hi>G</hi>raue gracious goodnes, <hi>gorgeous</hi> in thy minde,</l>
+                  <l>
+                     <hi>M</hi>oſt <hi>gorgeous</hi> vertues likewiſe are combynde:</l>
+                  <l>
+                     <hi>O</hi>f grace <hi>more gorgeous</hi> then I can extoll,</l>
+                  <l>
+                     <hi>R</hi>icher in wiſedome, then I can inroll:</l>
+                  <l>
+                     <hi>I</hi>ndude with all theſe <hi>gorgeous</hi> gifts and maire,</l>
+                  <l>
+                     <hi>S</hi>ententious knowledge, then I can declare;</l>
+                  <l>
+                     <hi>O</hi>f all whom of into my time I read,</l>
+                  <l>
+                     <hi>
+                        <hi>N</hi>one moir gorgeous</hi> then thy ſelfe indeede:</l>
+                  <l>
+                     <hi>N</hi>ot that I meane thou <hi>gorgeos</hi> art in ill,</l>
+               </lg>
+               <lg>
+                  <l>But what is generous, <hi>gorgeos</hi> thereintill,</l>
+                  <l>What ſhould I ſay then? this which I defend,</l>
+                  <l>Thy <hi>gorgeos</hi> life<g ref="char:punc">▪</g> ſhall make a glorious end<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:28"/>
+            <head>To IOANN LESLIE old Theſaurer.</head>
+            <div type="anagram">
+               <l>Anag. <hi>Al lyes in one.</hi>
+               </l>
+            </div>
+            <div type="acrostic">
+               <head>Sonnet.</head>
+               <lg>
+                  <l>
+                     <hi>I</hi>nto three charges, thou was choſen, and</l>
+                  <l>
+                     <hi>O</hi>f all theſe three, the power was in thy hand:</l>
+                  <l>
+                     <hi>A</hi> Theſaurer, which did the ſame containe,</l>
+                  <l>
+                     <hi>N</hi>o leſſe in worth, then honourd <hi>Aberdeine,</hi>
+                  </l>
+                  <l>
+                     <hi>L</hi>ikewiſe without thy licence for a ſpace,</l>
+                  <l>
+                     <hi>E</hi>ven theſe departed, ſcarce receavde a place,</l>
+                  <l>
+                     <hi>S</hi>ince in thy power, that honour which them cled,</l>
+                  <l>
+                     <hi>L</hi>ay that convoyde them to their funerall bed:</l>
+                  <l>
+                     <hi>I</hi>nto thy power this likewiſe knew I maire,</l>
+                  <l>
+                     <hi>E</hi>ven all the monyes mortified there:</l>
+               </lg>
+               <lg>
+                  <l>No doubt three charges, worth renowne<g ref="char:punc">▪</g> which muſt,</l>
+                  <l>Eſteemd wee more, while rendred in thy truſt,</l>
+                  <l>And as before theſe three were ay in one,</l>
+                  <l>So ſince from thee theſe three are ſeverall gone,</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <head>To ROBERT SKEENE,</head>
+            <div type="anagram">
+               <l>Anag. <hi>Seek no beterr.</hi>
+               </l>
+            </div>
+            <div type="acrostic">
+               <head>Sonnet.</head>
+               <lg>
+                  <l>
+                     <hi>R</hi>emembring how for to expreſſe thy praiſe,</l>
+                  <l>
+                     <hi>O</hi>r with my ſelfe conſidering what to ſay,</l>
+                  <l>
+                     <hi>B</hi>ehold how reaſon would extoll my phraſe,</l>
+                  <l>
+                     <hi>E</hi>ven for thy vertues viewed everie day:</l>
+                  <l>
+                     <hi>R</hi>emaine therefore thy worthineſſe ſhall ay,</l>
+                  <l>
+                     <hi>T</hi>hat thou to all, a paterne may bee ſure,</l>
+                  <l>
+                     <hi>S</hi>ince that thy fame ſhall never finde decay,</l>
+                  <l>
+                     <hi>K</hi>nowing thy worth, all ſhall thy praiſe procure:</l>
+                  <l>
+                     <hi>E</hi>ternally, that all may teſtifie,</l>
+                  <l>
+                     <hi>I</hi>nto thy ſelfe, ſuch properties appeare,</l>
+                  <l>
+                     <hi>N</hi>o leſſe in actions then civilitie,</l>
+                  <l>
+                     <hi>E</hi>ſteemd by all, whoſe wiſedome men admeere.</l>
+               </lg>
+               <lg>
+                  <l>And wherefore now, thou choſen art to ſit,</l>
+                  <l>A Counſeller in <hi>Bon-acord</hi> moſt fit:</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:28"/>
+            <head>To M. WILLIAME MOIRE,</head>
+            <div type="anagram">
+               <l>Anag. <hi>Lo me I mai rule.</hi>
+               </l>
+            </div>
+            <div type="acrostic">
+               <head>Sonnet.</head>
+               <lg>
+                  <l>Maſter</l>
+                  <l>
+                     <hi>W</hi>ith all thoſe worthies <hi>Moir</hi> thou art belovde,</l>
+                  <l>
+                     <hi>I</hi>n number whereof thou thy ſelfe art one,</l>
+                  <l>
+                     <hi>L</hi>ykewiſe thy worth in <hi>Bon-acords</hi> approvde,</l>
+                  <l>
+                     <hi>L</hi>ong which ſhall laſt, when endleſſe time is gone,</l>
+                  <l>
+                     <hi>I</hi>f Fame had force <hi>Moir,</hi> then it hath to flee,</l>
+                  <l>
+                     <hi>A</hi>ll it would ſound would bee in praiſe of thee,</l>
+                  <l>
+                     <hi>
+                        <hi>M</hi>oir</hi> is thy name, and thou in worth is <hi>Moir,</hi>
+                  </l>
+                  <l>
+                     <hi>E</hi>ſteemde <hi>Moir</hi> duely, for thy gifts in ſtore,</l>
+                  <l>
+                     <hi>M</hi>eeke in thy life and <hi>moir</hi> I cannot ſay,</l>
+                  <l>
+                     <hi>O</hi>f thee thoſe parts approved everie day:</l>
+                  <l>
+                     <hi>I</hi>n youth well bred, the which thou doſt declare.</l>
+                  <l>
+                     <hi>R</hi> Ruling by wiſdome in the counſell there,</l>
+               </lg>
+               <lg>
+                  <l>Wherefore though I, thee <hi>Moire</hi> might much co<g ref="char:cmbAbbrStroke">̄</g>mend</l>
+                  <l>More Ile not ſay, but <hi>Moire</hi> I might defend.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="encomium">
+            <head>To IOHN LOWSONE.</head>
+            <div type="anagram">
+               <l>
+                  <hi>I love no ſin.</hi>
+               </l>
+            </div>
+            <div type="acrostic">
+               <lg>
+                  <l>
+                     <hi>I</hi>f Poets pens haue parted praiſes oft,</l>
+                  <l>
+                     <hi>O</hi>r praiſe expoſde vnto the Worlds view,</l>
+                  <l>
+                     <hi>H</hi>ow much are they then bound to raiſe aloft,</l>
+                  <l>
+                     <hi>N</hi>ot ſimple ſayings, but of thee moſt true,</l>
+                  <l>
+                     <hi>L</hi>et then my lynes impart a publick view,</l>
+                  <l>
+                     <hi>O</hi>f all thy praiſe to bee approved rare,</l>
+                  <l>
+                     <hi>V</hi>ith Romanes, Grecians rendring them their due,</l>
+                  <l>
+                     <hi>S</hi>ince that their name with thine ſtands in compare:</l>
+                  <l>
+                     <hi>O</hi>r to bee briefe, behold its ſaid of mee,</l>
+                  <l>
+                     <hi>N</hi>o praiſe is loſt that is applyde to thee,</l>
+               </lg>
+            </div>
+         </div>
+         <div type="encomium">
+            <head>To THOMAS MOWET.</head>
+            <lg>
+               <l>
+                  <hi>T</hi>here was amongſt the Romans many lovde</l>
+               <l>
+                  <hi>H</hi>opefull in youth, and for their worth approvde,</l>
+               <l>
+                  <hi>O</hi>f all in generall, whom <hi>I</hi> read I ſee,</l>
+               <l>
+                  <hi>M</hi>oſt duely thou for worth comparde may bee.</l>
+               <l>
+                  <hi>A</hi>s hopefull alwayes, and no leſſe belovde,</l>
+               <l>
+                  <hi>S</hi>uchlike for wo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h in Bon-acord approvde,</l>
+               <l>
+                  <hi>M</hi>ay I not therefore, thus enroll thy name,</l>
+               <l>
+                  <hi>O</hi>f due deſert comprable with them,</l>
+               <l>
+                  <hi>V</hi>nchallengd truely may I thee impoſe,</l>
+               <l>
+                  <hi>E</hi>ven 'mongſt theſe worthies, to bee red with thoſe,</l>
+               <l>
+                  <hi>T</hi>hat in theſe lynes by mee which are inverſt,</l>
+            </lg>
+         </div>
+         <div type="eulogy">
+            <pb facs="tcp:183762:29"/>
+            <head>To ALEXANDER RAMESEY,</head>
+            <div type="anagram">
+               <l>Anag. <hi>Se I randar al mercy.</hi>
+               </l>
+            </div>
+            <div type="acrostic">
+               <head>Acroſtick.</head>
+               <lg>
+                  <l>
+                     <hi>A</hi>nd if thou <hi>randar mercy,</hi> then bee ſure,</l>
+                  <l>
+                     <hi>L</hi>yfe endleſſe thereby, ſhalt thy ſelfe procure,</l>
+                  <l>
+                     <hi>E</hi>ven thou whoſe worth is viewed everie day,</l>
+                  <l>
+                     <hi>X</hi>ceeding rare in wiſedome thought alwaye:</l>
+                  <l>
+                     <hi>A</hi> man of mercie, wherefore thou art meete,</l>
+                  <l>
+                     <hi>N</hi>ow where thou rules into that judgement ſeat.</l>
+                  <l>
+                     <hi>D</hi>ecorde with grace, and vertues of the minde,</l>
+                  <l>
+                     <hi>I</hi>nto the which all bleſſings are combynd,</l>
+                  <l>
+                     <hi>R</hi>emaine therefore, for ever ſhall thy fame,</l>
+                  <l>
+                     <hi>R</hi>ed in thoſe lynes, which doth import thy name,</l>
+                  <l>
+                     <hi>A</hi>dmeerd for <hi>mercie</hi> ſince thy life began,</l>
+                  <l>
+                     <hi>M</hi>uch lovd for grace, and grace doth make the man:</l>
+                  <l>
+                     <hi>E</hi>ternally therefore, I will my Muſe,</l>
+                  <l>
+                     <hi>S</hi>hould fing thy praiſe, amongſt my worthieſt chuſe,</l>
+                  <l>
+                     <hi>E</hi>ſteemde thou art, for mercie grace and faith,</l>
+                  <l>
+                     <hi>Y</hi>airefore thy worth ſhall long liue after death.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="eulogy">
+            <head>To WILLIAME GRAY.</head>
+            <div type="anagram">
+               <l>Anag: <hi>Age may ruill.</hi>
+               </l>
+            </div>
+            <div type="acrostic">
+               <head>Sonnet</head>
+               <lg>
+                  <l>
+                     <hi>W</hi>hat ſhould bee ſought into a ruler more,</l>
+                  <l>
+                     <hi>I</hi>f hee hath knowledge (for to rule) in ſtore,</l>
+                  <l>
+                     <hi>L</hi>ikewiſe, if that his age hath conquiſht wit,</l>
+                  <l>
+                     <hi>L</hi>ike one whoſe worth is thought in counſell fit,</l>
+                  <l>
+                     <hi>I</hi> know in thee, theſe one, the other yeelds,</l>
+                  <l>
+                     <hi>A</hi>ccompliſht both, moſt like two faithfull ſhields:</l>
+                  <l>
+                     <hi>M</hi>ore <hi>age to rule,</hi> moſt ſurely none can craue,</l>
+                  <l>
+                     <hi>E</hi>ven ſo more skill to rule, needes no man haue,</l>
+                  <l>
+                     <hi>G</hi>raue yeares of youth, in thee doth now appeare,</l>
+                  <l>
+                     <hi>R</hi>are vertues likewiſe which may breed admeere:</l>
+                  <l>
+                     <hi>
+                        <hi>A</hi>ge to rule,</hi> and ruler in thy age,</l>
+                  <l>
+                     <hi>Y</hi>at may a match to any bee I'lledg.</l>
+                  <l>
+                     <hi>V</hi>nto thy praiſe therefore I fix my name,</l>
+                  <l>
+                     <hi>M</hi>aintaining truely this thy endleſſe ſame.</l>
+               </lg>
+            </div>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:183762:29"/>
+            <head>To GEORG MELDRVM,</head>
+            <div type="anagram">
+               <l>Anag. <hi>Go mild rumer.</hi>
+               </l>
+            </div>
+            <div type="acrostic">
+               <head>Sonnet</head>
+               <lg>
+                  <l>
+                     <hi>G</hi>iue vertue crownde with conſcience, merits loue,</l>
+                  <l>
+                     <hi>E</hi>ven in thy ſtation thou deſerues eſteeme,</l>
+                  <l>
+                     <hi>O</hi>r if graue cariage, due reſpect can moue,</l>
+                  <l>
+                     <hi>R</hi>ich are theſe parts in thee, as fame proclaime:</l>
+                  <l>
+                     <hi>G</hi>race doth governe them, companide with faith,</l>
+                  <l>
+                     <hi>M</hi>eeke wiſedome alſo ruleth in thy wayes:</l>
+                  <l>
+                     <hi>E</hi>ternall praiſe ſhall proue thee after death,</l>
+                  <l>
+                     <hi>L</hi>ike one whoſe worth ſhall ſuffer no decayes:</l>
+                  <l>
+                     <hi>D</hi>oubtleſſe and rather evermore thy fame.</l>
+                  <l>
+                     <hi>R</hi>emaine it ſhall in <hi>Bon-acord</hi> as due,</l>
+                  <l>
+                     <hi>V</hi>hen thou art dead, to eternize thy name,</l>
+                  <l>
+                     <hi>M</hi>en ſhall each day, thy dignities renue,</l>
+               </lg>
+               <lg>
+                  <l>And for their aide <hi>myld rumer</hi> foorth ſhall goe,</l>
+                  <l>And with my Muſe ſound foorth thy praiſe alſo.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="apology">
+            <head>For Apologie.</head>
+            <lg>
+               <l>IT's ſaid, a Prophet ſhall reape honour, ſaue</l>
+               <l>Hee it vnto his natiue countrie craue:</l>
+               <l>
+                  <hi>A</hi> ſaying ſad, to ſuch as would aſpyre,</l>
+               <l>Since Friends at home to them as foes conſpyre.</l>
+               <l>For my part <hi>I,</hi> nor Prophet, Poet, am <hi>I,</hi>
+               </l>
+               <l>Yet from your bounds, by birth of parents came <hi>I.</hi>
+               </l>
+               <l>Therefore that proverb, let mee not approue,</l>
+               <l>As for reward, of this my ſigne of loue,</l>
+               <l>
+                  <hi>I</hi> haue done ſomething on your names <hi>I</hi> know,</l>
+               <l>Though not ſo much, as <hi>I</hi> of duetie owe:</l>
+               <l>And ſince not loftie in my phraiſe am glad,</l>
+               <l>Yee know how <hi>I</hi> was educat and bred:</l>
+               <l>Which is of learning, <hi>I</hi> no part profeſſe,</l>
+               <l>And hath by vſe or reading rather leſſe,</l>
+               <l>Whence comes a ſigne, of ſerious mynde in mee:</l>
+               <l>To ſhew your worth in ſtrained Poeſie:</l>
+               <l>Yet your Acroſticks claimes to mee no praiſe,</l>
+               <l>Becauſe the letters doth the ſentence raiſe:</l>
+               <l>
+                  <hi>I</hi> by my weakneſſe, rather did omit,</l>
+               <l>For to expreſſe, thoſe praiſes which were fit:</l>
+               <l>
+                  <pb facs="tcp:183762:30"/>And ſo in mee the ſault conſiſts as due,</l>
+               <l>Since what is right, and more belongs to you,</l>
+               <l>But ſince <hi>I</hi> grant, what wrong is done by mee,</l>
+               <l>Let mee of you obtaine this courteſie,</l>
+               <l>That yee in loue my lynes receaue, and then,</l>
+               <l>Yele ſhew your ſelues braue courteous gentle men.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <head>Sonnet.</head>
+            <lg>
+               <l>LOE now my Muſe, I haue betrothed twyſe,</l>
+               <l>And rewes of none the matches ſhee did make:</l>
+               <l>But doth contemne all ſuch as mee envyes:</l>
+               <l>And of my Patrons doe protection take</l>
+               <l>Her maidinhead: My Muſe did firſt direct</l>
+               <l>To <hi>Edenburgh,</hi> for her firſt favoured choyſe,</l>
+               <l>Her wedowhead ſhee yeelded by reſpect,</l>
+               <l>To <hi>Bon-acord,</hi> whoſe worth the ſame injoyes,</l>
+               <l>The firſt's a famous, and a glorious Towne,</l>
+               <l>And is for vertues wondrous much admeerde,</l>
+               <l>The other ſoares by ſoveraigne due renowne,</l>
+               <l>And hath all vyce foorth from her ſtreets reteerde:</l>
+               <l>And though I founde the firſt a match moſt rare,</l>
+               <l>So now I thinke for worth this may compare.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <head>Sonnet.</head>
+            <lg>
+               <l>I Sweare its not to ſhew the thing I haue not,</l>
+               <l>What I haue verſt within this volume heere,</l>
+               <l>Likewiſe I vow, part of thy praiſe <hi>I</hi> craue not,</l>
+               <l>Nor of thy cenſure doe I ſtand in feare,</l>
+               <l>I wryte in loue, and labours to allot,</l>
+               <l>My lynes to bee a witneſſe of the ſame.</l>
+               <l>And doth not care the carping of no ſot,</l>
+               <l>Becauſe there is no courteſie in them,</l>
+               <l>The rareſt lynes that ever yet were pend,</l>
+               <l>Muſt byde the cenſure of ſome curious eye:</l>
+               <l>Therefore reſolues my Muſe<g ref="char:punc">▪</g> to recommend,</l>
+               <l>Vnto thy murther, or thy modeſtie.</l>
+               <l>Shee was a Maid, but now twyſe married ſtands,</l>
+               <l>If wrongd by thee, betwixt a knaves two hands.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:183762:30"/>
+            <pb facs="tcp:183762:31"/>
+            <pb facs="tcp:183762:31"/>
+         </div>
+      </body>
+   </text>
+</TEI>
